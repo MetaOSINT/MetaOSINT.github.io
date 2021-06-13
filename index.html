@@ -1,21 +1,15 @@
 ---
-layout: post
-title: MetaOSINT
+layout: default
+title: Home
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-    <link type="text/css" rel="stylesheet" href="css/arf.css"/>
-    <script type="text/javascript" src="js/d3.v3.min.js"></script>
-    <title>MetaOSINT</title>
-  </head>
+<div id="observablehq-chart-386f21a4"></div>
+<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
 
-  <body>
-    <div id="body">
-      <div id="header">
-        MetaOSINT
-          <hr/>
-      </div>
-    </div>
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-386f21a4"));
+});
+</script>
