@@ -3,8 +3,8 @@ layout: default
 title: Visualize Top OSINT Resources
 ---
 
-![Branching](https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG)
-
+ <img src="https://github.com/MetaOSINT/MetaOSINT.github.io/blob/main/header.PNG" alt="MetaOSINT_Header" width="400" height="275" style="vertical-align:top">
+ 
   <body>
 
     <p style="color:#8b786f;font-size:40px;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align:center">Here is some sample text</p>  
