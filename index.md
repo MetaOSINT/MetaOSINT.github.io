@@ -3,11 +3,11 @@ layout: default
 title: Visualize Top OSINT Resources
 ---
 
- <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" width="425" height="285" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
+ <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" width="556" height="295" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
  
   <body>
 
-    <p style="color:#8b786f;font-size:21px;font-family: 'Open Sans', sans-serif">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
+    <p style="color:#8b786f;font-size:21px;font-family: 'Open Sans', sans-serif;text-align:center">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
 
     <p style="color:#8b786f;font-size:16px;font-family: 'Open Sans', sans-serif">MO visualizes top OSINT sources - based on citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
  
