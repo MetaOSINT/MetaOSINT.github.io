@@ -3,22 +3,21 @@ layout: default
 title: Home
 ---
 
-<div id="observablehq-chart-386f21a4"></div>
-<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
-
   <body>
 
     <h4>Here is some sample text</h4>
     
     <h5>Here is more sample text</h5>
 
-
-    <script type="module">
-    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-    import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
-    new Runtime().module(define, name => {
-      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-386f21a4"));
-    });
-    </script>
-
   </body>
+
+<div id="observablehq-chart-386f21a4"></div>
+<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-386f21a4"));
+});
+</script>
