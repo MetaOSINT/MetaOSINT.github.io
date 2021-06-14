@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualize Top OSINT Resources
+title: Top OSINT Resources Visualization
 ---
 
  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" width="556" height="295" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
