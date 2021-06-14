@@ -3,7 +3,7 @@ layout: default
 title: Top OSINT Resources Visualization
 ---
 
- <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" max-width=800px height="440" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
+ <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" width="556" height="280" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
  
   <body>
 
@@ -24,11 +24,11 @@ title: Top OSINT Resources Visualization
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
     import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
     new Runtime().module(define, name => {
-      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-386f21a4"));
+      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-00fa9c3c"));
     });
     </script>
 
   </body>
 
-<div id="observablehq-chart-386f21a4"></div>
+<div id="observablehq-chart-00fa9c3c"></div>
 <p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
