@@ -11,7 +11,7 @@ title: Top OSINT Resources Visualization
 
     <p style="color:#8b786f;font-size:16px">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
  
-    <p style="color:#8b786f;font-size:16px">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists - it highlights the "top" resources, based on total number of mutual/shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately provides and visualizes the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
+    <p style="color:#8b786f;font-size:16px">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists, highlighting the "top" resources based on total number of shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately considers the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
 
      <p style="color:#8b786f;font-size:16px">We expect MO will have two primary uses: </p>  
 
