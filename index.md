@@ -7,28 +7,28 @@ title: Top OSINT Resources Visualization
  
   <body>
 
-    <p style="color:#8b786f;font-size:21px;text-align:center;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
+    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'PT Serif', serif">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
+    <p style="color:#8b786f;font-size:16px;font-family: 'PT Serif', serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
  
-    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists, highlighting the "top" resources based on total number of shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately considers the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
+    <p style="color:#8b786f;font-size:16px;font-family: 'PT Serif', serif">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists, highlighting the "top" resources based on total number of shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately considers the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">We expect MO will have two primary uses: </p>  
+    <p style="color:#8b786f;font-size:16px;font-family: 'PT Serif', serif">We expect MO will have two primary uses: </p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">(Bonus!) #3: </p>  
+    <p style="color:#8b786f;font-size:16px;font-family: 'PT Serif', serif">(Bonus!) #3: </p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">MO was conceived by a former OSINT analyst, but entered existence simply as a coding project. If you benefited from this tool, please consider a small donation to MO's favorite charity! </p>  
+    <p style="color:#8b786f;font-size:16px;font-family: 'PT Serif', serif">MO was conceived by a former OSINT analyst, but entered existence simply as a coding project. If you benefited from this tool, please consider a small donation to MO's favorite charity! </p>  
 
 
     <script type="module">
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
     import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
     new Runtime().module(define, name => {
-      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-00fa9c3c"));
+      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ed16bb5c"));
     });
     </script>
 
   </body>
 
-<div id="observablehq-chart-00fa9c3c"></div>
+<div id="observablehq-chart-ed16bb5c"></div>
 <p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
