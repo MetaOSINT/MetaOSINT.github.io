@@ -3,10 +3,14 @@ layout: default
 title: Visualize Top OSINT Resources
 ---
 
-#### Here is some sample text
+  <body>
 
-##### Here is more sample text
-Here is some final sample text, thanks!
+    <p style="color:#8b786f;font-size:40px;font-family: 'Open Sans', sans-serif;font-weight: bold;text-align:center">Here is some sample text</p>
+    
+  </body>
+
+<div id="observablehq-chart-386f21a4"></div>
+<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
 
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
