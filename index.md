@@ -3,21 +3,21 @@ layout: default
 title: Top OSINT Resources Visualization
 ---
 
- <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" max-width="800" height="440" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
+ <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header.PNG" alt="MetaOSINT_Header" max-width=800px height="440" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
  
   <body>
 
-    <p style="color:#8b786f;font-size:21px;text-align:center;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
+    <p style="color:#8b786f;font-size:21px;text-align:center;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
+    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
  
-    <p style="color:#8b786f;font-size:16px;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists, highlighting the "top" resources based on total number of shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately considers the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
+    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists, highlighting the "top" resources based on total number of shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately considers the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">We expect MO will have two primary uses: </p>  
+    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">We expect MO will have two primary uses: </p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">(Bonus!) #3: </p>  
+    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">(Bonus!) #3: </p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif">MO was conceived by a former OSINT analyst, but entered existence simply as a coding project. If you benefited from this tool, please consider a small donation to MO's favorite charity! </p>  
+    <p style="color:#8b786f;font-size:16px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif">MO was conceived by a former OSINT analyst, but entered existence simply as a coding project. If you benefited from this tool, please consider a small donation to MO's favorite charity! </p>  
 
 
     <script type="module">
