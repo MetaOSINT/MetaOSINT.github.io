@@ -7,17 +7,17 @@ title: Top OSINT Resources Visualization
  
   <body>
 
-    <p style="color:#8b786f;font-size:21px;font-family: 'Open Sans', sans-serif;text-align:center">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
+    <p style="color:#8b786f;font-size:21px;text-align:center">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family: 'Open Sans', sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
+    <p style="color:#8b786f;font-size:16px">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
  
-    <p style="color:#8b786f;font-size:16px;font-family: 'Open Sans', sans-serif">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists - it highlights the "top" resources, based on total number of mutual/shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately provides and visualizes the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
+    <p style="color:#8b786f;font-size:16px">MO analyzed a staggering <strong>17,000 source links</strong> appearing on nearly 30 lists of OSINT tools & resources. MO visualizes the overlap among these source lists - it highlights the "top" resources, based on total number of mutual/shared citations. In total, more than <strong>11,000 unique OSINT resources were identified</strong> on the 28 evaluated lists alone. MO ultimately provides and visualizes the top among these resources - the <strong>4,817 resources</strong> cited multiple times across these lists.</p>  
 
-     <p style="color:#8b786f;font-size:16px;font-family: 'Open Sans', sans-serif">We expect MO will have two primary uses: </p>  
+     <p style="color:#8b786f;font-size:16px">We expect MO will have two primary uses: </p>  
 
-      <p style="color:#8b786f;font-size:16px;font-family: 'Open Sans', sans-serif">(Bonus!) #3: </p>  
+      <p style="color:#8b786f;font-size:16px">(Bonus!) #3: </p>  
 
-    <p style="color:#8b786f;font-size:16px;font-family: 'Open Sans', sans-serif">MO was conceived by a former OSINT analyst, but entered existence simply as a coding project. If you benefited from this tool, please consider a small donation to MO's favorite charity! </p>  
+    <p style="color:#8b786f;font-size:16px">MO was conceived by a former OSINT analyst, but entered existence simply as a coding project. If you benefited from this tool, please consider a small donation to MO's favorite charity! </p>  
 
 
     <script type="module">
