@@ -64,7 +64,10 @@ permalink: /home-v2/
       
    </div>
     
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
+   
+    <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Using Mo:</strong> Description...desription...
+    <br>Mo' OSINT? <strong>No problem!</strong></p>
 
     <script type="module">
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
