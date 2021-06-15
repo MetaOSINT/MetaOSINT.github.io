@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Acknowledgements"
+title: "home-v2"
 permalink: /home-v2/
 ---
 
@@ -27,10 +27,8 @@ permalink: /home-v2/
 
   <body style="margin-right:95px;margin-left:95px">
   
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="260" height="350" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
- 
-    <p><br><br><br><br><br><br><br><br><br></p>
-  
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="350" height="425" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" style="float: middle">
+   
     <div class="container">  
       
     <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
