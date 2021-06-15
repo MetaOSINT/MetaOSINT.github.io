@@ -6,7 +6,15 @@ title: Top OSINT Resources Visualization
    <style>
     .container{  
       text-align: center;  
-    }  
+    }
+    .container2{  
+      font-size: 14px;
+      color: #8b786f;
+      font-family: 'Roboto', sans-serif;
+    }
+    .container3{  
+      align: center;
+    }
     .button {
       border: 2px solid #8b786f;
       border-radius: 8px;
@@ -45,14 +53,15 @@ title: Top OSINT Resources Visualization
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">We expect MO will have two primary uses:</p>
        
-    <dl>
-      <dt>#1: </dt>
-       <dd>description</dd>
-      <dt>#2: </dt>
-       <dd>description</dd>
-      <dt>(Bonus!) #3: </dt>
-       <dd>description</dd>
+   <div class="container2">  
+
+    <ul>
+       <li><strong>#1: </strong></li>
+      <li><strong>#2: </strong></li>
+      <li><strong>(Bonus!) #3: </strong></li>
     </dl>
+      
+   </div>
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
 
@@ -63,8 +72,12 @@ title: Top OSINT Resources Visualization
       if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ed16bb5c"));
     });
     </script>
-
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="190" height="275" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
+  
+   <div class="container3">
+      
+      <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="190" height="275" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
+      
+   </div>
    
   </body>
 
