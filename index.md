@@ -10,10 +10,10 @@ title: Top OSINT Resources Visualization
     .button {
       border: 2px solid #8b786f;
       border-radius: 8px;
-      padding: 5px 15px;
+      padding: 4px 12px;
       background-color: #f5f5f5;
       color: #8b786f;
-      font-size: 23px;
+      font-size: 20px;
       cursor: pointer;
       font-family: 'Roboto', sans-serif;
     }
@@ -21,9 +21,9 @@ title: Top OSINT Resources Visualization
 
   <body style="margin-right:95px;margin-left:95px">
   
-    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="464" height="190" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
+    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="530" height="190" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
 
-    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="530" height="190" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
+    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="464" height="190" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
  
     <p><br><br><br><br><br><br><br><br><br></p>
   
@@ -36,9 +36,8 @@ title: Top OSINT Resources Visualization
        
     </div>
 
-    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT, mo' problems?</strong></p>
-
-    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif">MetaOSINT ("MO") is here to help.</p>
+    <p style="color:#8b786f;font-size:24px;text-align:center;font-family: 'Roboto', sans-serif"><br><strong>Mo' OSINT, Mo' Problems?</strong>
+    <br>MetaOSINT ("MO") is here to help.</p>
 
     <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.
     <br>
