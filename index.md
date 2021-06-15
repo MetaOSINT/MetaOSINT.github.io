@@ -5,6 +5,8 @@ title: Top OSINT Resources Visualization
 
    <style>
     .button {
+      background-color: white
+      border: initial
       color: #8b786f;
       font-size: 23px;
       cursor: pointer;
@@ -18,9 +20,9 @@ title: Top OSINT Resources Visualization
 
     <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="556" height="200" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
  
-    <p><br><br><br><br><br><br><br></p>
+    <p><br><br><br><br><br><br><br><br><br></p>
   
-    <a href="https://metaosint.github.io/" class="button">Home</a>
+    <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/'"><strong>Home</strong></button>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/table/'"><strong>Full Results Table</strong></button>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/faq/'"><strong>FAQ</strong></button>
