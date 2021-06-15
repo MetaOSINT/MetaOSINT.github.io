@@ -6,7 +6,8 @@ title: Top OSINT Resources Visualization
    <style>
     .button {
       background-color: white
-      border: "medium", "none", #8b786f;
+      border: 4px solid #8b786f;
+      border-radius: 8px;
       color: #8b786f;
       font-size: 23px;
       cursor: pointer;
@@ -16,9 +17,9 @@ title: Top OSINT Resources Visualization
 
   <body style="margin-right:95px;margin-left:95px">
   
-    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="464" height="200" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
+    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="464" height="190" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
 
-    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="556" height="200" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
+    <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="530" height="190" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
  
     <p><br><br><br><br><br><br><br><br><br></p>
   
