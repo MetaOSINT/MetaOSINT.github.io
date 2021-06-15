@@ -8,12 +8,9 @@ title: Top OSINT Resources Visualization
       text-align: center;  
     }
     .container2{  
-      font-size: 14px;
+      font-size: 16px;
       color: #8b786f;
       font-family: 'Roboto', sans-serif;
-    }
-    .container3{  
-      align: center;
     }
     .button {
       border: 2px solid #8b786f;
@@ -72,14 +69,10 @@ title: Top OSINT Resources Visualization
       if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-ed16bb5c"));
     });
     </script>
-  
-   <div class="container3">
-      
-      <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="190" height="275" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
-      
-   </div>
-   
+         
   </body>
 
 <div id="observablehq-chart-ed16bb5c"></div>
 <p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
+
+<img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="220" height="350" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
