@@ -9,7 +9,9 @@ title: Top OSINT Resources Visualization
 
   <body>
 
-    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif">Mo' OSINT, mo' problems? MetaOSINT ("MO") is here to help.</p>  
+    <h1>Mo' OSINT, mo' problems?</h1>
+  
+    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif">MetaOSINT ("MO") is here to help.</p>  
 
     <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.</p>
  
