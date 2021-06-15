@@ -45,11 +45,14 @@ title: Top OSINT Resources Visualization
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">We expect MO will have two primary uses:</p>
        
-    <ul>
-      <li>#1: </li>
-      <li>#2: </li>
-      <li>(Bonus!) #3: </li>
-    </ul>
+    <dl>
+      <dt>#1: </dt>
+       <dd>description</dd>
+      <dt>#2: </dt>
+       <dd>description</dd>
+      <dt>(Bonus!) #3: </dt>
+       <dd>description</dd>
+    </dl>
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
 
@@ -61,9 +64,9 @@ title: Top OSINT Resources Visualization
     });
     </script>
 
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="190" height="275" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
+   
   </body>
 
 <div id="observablehq-chart-ed16bb5c"></div>
 <p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
-
-<img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="155" height="230" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
