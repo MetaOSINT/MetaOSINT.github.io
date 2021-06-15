@@ -13,11 +13,17 @@ title: Top OSINT Resources Visualization
     <br>
     <br>
     <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <br><strong>Mo' OSINT, mo' problems?</strong>
     <br>MetaOSINT ("MO") is here to help.</p>
   
-    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif;text-decoration:'underline'"><strong>Full Results Table</strong></button>
-    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif;"><strong>FAQ</strong></button>
+    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/'"><strong>Home</strong></button>
+    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/table/'"><strong>Full Results Table</strong></button>
+    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/faq/'"><strong>FAQ</strong></button>
+    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/thanks'"><strong>Acknowledgements</strong></button>
 
     <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.
     <br>
