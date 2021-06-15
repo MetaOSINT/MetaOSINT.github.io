@@ -4,10 +4,14 @@ title: Top OSINT Resources Visualization
 ---
 
    <style>
+    .container{  
+      text-align: center;  
+    }  
     .button {
       border: 2px solid #8b786f;
       border-radius: 8px;
-      padding: 10px 24px;
+      padding: 5px 15px;
+      background-color: #f5f5f5;
       color: #8b786f;
       font-size: 23px;
       cursor: pointer;
@@ -23,10 +27,14 @@ title: Top OSINT Resources Visualization
  
     <p><br><br><br><br><br><br><br><br><br></p>
   
+    <div class="container">  
+      
     <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
     <a href="https://metaosint.github.io/table/" class="button"><strong>Full Results Table</strong></a>
     <a href="https://metaosint.github.io/faq/" class="button"><strong>FAQ</strong></a>
     <a href="https://metaosint.github.io/thanks/" class="button"><strong>Acknowledgments</strong></a>
+       
+    </div>
 
     <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT, mo' problems?</strong></p>
 
