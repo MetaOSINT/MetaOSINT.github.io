@@ -13,6 +13,9 @@ permalink: /home-v2/
       color: #8b786f;
       font-family: 'Roboto', sans-serif;
     }
+    .container3{  
+      text-align: center;
+    }
     .button {
       border: 2px solid #8b786f;
       border-radius: 8px;
@@ -27,7 +30,11 @@ permalink: /home-v2/
 
   <body style="margin-right:95px;margin-left:95px">
   
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="315" height="385" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8;float: middle">
+  <div class="container3">
+
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="315" height="385" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
+  
+   </div>
    
     <div class="container">  
       
@@ -47,7 +54,7 @@ permalink: /home-v2/
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">We expect MO will have two primary uses:</p>
        
-   <div class="container2">  
+   <div class="container2">
 
        <ul>
          <li><strong>#1: </strong></li>
