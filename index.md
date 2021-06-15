@@ -3,27 +3,32 @@ layout: default
 title: Top OSINT Resources Visualization
 ---
 
+   <style>
+    .button {
+      color: #8b786f;
+      font-size: 23px;
+      cursor: pointer;
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
+
   <body style="margin-right:125px;margin-left:125px">
   
     <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="464" height="200" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
 
     <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="556" height="200" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
  
-    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif">
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br><strong>Mo' OSINT, mo' problems?</strong>
-    <br>MetaOSINT ("MO") is here to help.</p>
+    <p><br><br><br><br><br><br><br></p>
   
+    <a href="https://metaosint.github.io/" class="button">Home</a>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/'"><strong>Home</strong></button>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/table/'"><strong>Full Results Table</strong></button>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/faq/'"><strong>FAQ</strong></button>
     <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif" align="center" onclick="window.location.href='https://metaosint.github.io/thanks'"><strong>Acknowledgements</strong></button>
+
+    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT, mo' problems?</strong></p>
+
+    <p style="color:#8b786f;font-size:21px;text-align:center;font-family: 'Roboto', sans-serif">MetaOSINT ("MO") is here to help.</p>
 
     <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.
     <br>
