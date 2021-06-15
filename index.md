@@ -75,4 +75,8 @@ title: Top OSINT Resources Visualization
 <div id="observablehq-chart-ed16bb5c"></div>
 <p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
 
-<img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="220" height="350" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="center">
+  <body style="margin-right:95px;margin-left:95px">
+
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="315" height="385" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8;align: center">
+   
+   </body>
