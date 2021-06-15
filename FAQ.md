@@ -13,7 +13,3 @@ permalink: /faq/
 <p> </p>
 <p> </p>
 <p> </p>
-
-## Frequently Asked Questions
-
-### List of FAQs
