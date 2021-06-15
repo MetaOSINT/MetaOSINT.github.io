@@ -55,11 +55,11 @@ title: Top OSINT Resources Visualization
        
    <div class="container2">  
 
-    <ul>
-       <li><strong>#1: </strong></li>
-      <li><strong>#2: </strong></li>
-      <li><strong>(Bonus!) #3: </strong></li>
-    </dl>
+       <ul>
+         <li><strong>#1: </strong></li>
+         <li><strong>#2: </strong></li>
+         <li><strong>(Bonus!) #3: </strong></li>
+       </ul>
       
    </div>
     
