@@ -14,7 +14,10 @@ title: Top OSINT Resources Visualization
     <br>
     <br>
     <br><strong>Mo' OSINT, mo' problems?</strong>
-    <br>MetaOSINT ("MO") is here to help.</p>  
+    <br>MetaOSINT ("MO") is here to help.</p>
+  
+    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif;text-decoration:'underline'"><strong>Full Results Table</strong></button>
+    <button type="button" style="color:#8b786f;font-size:23px;font-family: 'Roboto', sans-serif;"><strong>FAQ</strong></button>
 
     <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif">MO visualizes top OSINT sources - based on tens of thousands of citations on dozens of OSINT tool & resource lists - saving valuable time during OSINT investigations.
     <br>
