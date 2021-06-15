@@ -5,9 +5,6 @@ title: Top OSINT Resources Visualization
 
    <style>
     .button {
-      background-color: white;
-      border: 4px solid #8b786f;
-      border-radius: 8px;
       color: #8b786f;
       font-size: 23px;
       cursor: pointer;
