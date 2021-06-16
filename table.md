@@ -26,6 +26,16 @@ permalink: /table/
       cursor: pointer;
       font-family: 'Open Sans', sans-serif;
     }
+    .button2 {
+      border: 2px solid #8b786f;
+      border-radius: 8px;
+      padding: 5px 15px;
+      background-color: #cfcfcf;
+      color: #8b786f;
+      font-size: 23px;
+      cursor: pointer;
+      font-family: 'Open Sans', sans-serif;
+    }
   </style>
 
   <body style="margin-right:95px;margin-left:95px">
@@ -39,7 +49,7 @@ permalink: /table/
     <div class="container">  
       
     <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
-    <a href="https://metaosint.github.io/table/" class="button" background-color=#cfcfcf><strong>Full Results Table</strong></a>
+    <a href="https://metaosint.github.io/table/" class="button2"><strong>Full Results Table</strong></a>
     <a href="https://metaosint.github.io/faq/" class="button"><strong>FAQ</strong></a>
     <a href="https://metaosint.github.io/thanks/" class="button"><strong>Acknowledgments</strong></a>
        
@@ -72,10 +82,10 @@ permalink: /table/
 
   |Cateogry|Sub-Category|Name|URL|Citations in Category|
   |:---|:---|:---|:---|:---|
-  |Academic Resources|"Grey Literature"|Google Scholar (5)|https://scholar.google.com|5|
-  |Academic Resources|"Grey Literature"|Academia (5)|https://www.academia.edu/|5|
-  |Academic Resources|"Grey Literature"|ScienceDirect (4)|https://www.sciencedirect.com/|4|
-  |Academic Resources|"Grey Literature"|Page Press (4)|http://www.pagepress.org/|4|
+  |Academic Resources|"Grey Literature"|Google Scholar (5)|https://scholar.google.com |5|
+  |Academic Resources|"Grey Literature"|Academia (5)|https://www.academia.edu/ |5|
+  |Academic Resources|"Grey Literature"|ScienceDirect (4)|https://www.sciencedirect.com/ |4|
+  |Academic Resources|"Grey Literature"|Page Press (4)|http://www.pagepress.org/ |4|
   |Academic Resources|"Grey Literature"|Grey guide (4)|http://greyguide.isti.cnr.it/|4|
   |Academic Resources|"Grey Literature"|VLRC (3)|https://www.virtuallrc.com/|3|
   |Academic Resources|"Grey Literature"|PQDT Open (3)|https://pqdtopen.proquest.com/search.html|3|
