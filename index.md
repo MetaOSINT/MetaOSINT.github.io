@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "home-v2"
-permalink: /home-v2/
+title: Top OSINT Resources Visualization
 ---
 
    <style>
@@ -68,9 +67,6 @@ permalink: /home-v2/
    
     <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Using MO:</strong> Description...desription...</p>
     <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT? No problem!</strong></p>
-
-<div id="observablehq-chart-87f43f84"></div>
-<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
 
    <script type="module">
    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
