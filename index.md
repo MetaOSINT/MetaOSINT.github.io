@@ -75,7 +75,7 @@ title: Top OSINT Resources Visualization
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
    
-    <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Using MO:</strong> Description...desription...
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Using MO:</strong> Description...desription...
     <br>Practice safe OSINT! (Hint: use the Privacy / Operational Security bubble below for resources on the topic.)</p>
     <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT? No problem!</strong></p>
 
@@ -83,13 +83,13 @@ title: Top OSINT Resources Visualization
    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
    import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
    new Runtime().module(define, name => {
-     if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-87f43f84"));
+     if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-96fbc5e5"));
    });
    </script>
    
   </body>
 
-<div id="observablehq-chart-87f43f84"></div>
+<div id="observablehq-chart-96fbc5e5"></div>
 <p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
 
   <body style="margin-right:95px;margin-left:95px">
