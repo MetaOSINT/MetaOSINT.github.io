@@ -29,7 +29,7 @@ title: Top OSINT Resources Visualization
       border: 2px solid #8b786f;
       border-radius: 8px;
       padding: 5px 15px;
-      background-color: #e8e8e8;
+      background-color: #dcdcdc;
       color: #8b786f;
       font-size: 23px;
       cursor: pointer;
