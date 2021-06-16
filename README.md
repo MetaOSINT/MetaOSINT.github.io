@@ -1,7 +1,7 @@
 ## Mo' OSINT, Mo' Problems?
 MetaOSINT ("MO") is here to help.
 
-![MetaOSINT}(https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG)
+![MetaOSINT](https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG)
 
 MO enables open-source intelligence ("OSINT") practitioners to quickly identify relevant, publicly-available tools and resources, saving valuable time during investigations, research, and analysis.</p>
     
