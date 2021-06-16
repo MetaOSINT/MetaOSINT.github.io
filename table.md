@@ -30,7 +30,7 @@ permalink: /table/
       border: 2px solid #8b786f;
       border-radius: 8px;
       padding: 5px 15px;
-      background-color: #cfcfcf;
+      background-color: #dcdcdc;
       color: #8b786f;
       font-size: 23px;
       cursor: pointer;
@@ -85,8 +85,8 @@ permalink: /table/
   |Academic Resources|"Grey Literature"|Google Scholar (5)|https://scholar.google.com |5|
   |Academic Resources|"Grey Literature"|Academia (5)|https://www.academia.edu/ |5|
   |Academic Resources|"Grey Literature"|ScienceDirect (4)|https://www.sciencedirect.com/ |4|
-  |Academic Resources|"Grey Literature"|Page Press (4)|http://www.pagepress.org/ |4|
-  |Academic Resources|"Grey Literature"|Grey guide (4)|http://greyguide.isti.cnr.it/|4|
+  |Academic Resources|"Grey Literature"|Page Press (4)|<a href="http://www.pagepress.org/"></a> |4|
+  |Academic Resources|"Grey Literature"|Grey guide (4)|<a href="http://greyguide.isti.cnr.it/">http://greyguide.isti.cnr.it/</a>|4|
   |Academic Resources|"Grey Literature"|VLRC (3)|https://www.virtuallrc.com/|3|
   |Academic Resources|"Grey Literature"|PQDT Open (3)|https://pqdtopen.proquest.com/search.html|3|
   |Academic Resources|"Grey Literature"|JSTOR (3)|http://www.jstor.org|3|
