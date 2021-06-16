@@ -25,6 +25,16 @@ title: Top OSINT Resources Visualization
       cursor: pointer;
       font-family: 'Open Sans', sans-serif;
     }
+    .button2 {
+      border: 2px solid #8b786f;
+      border-radius: 8px;
+      padding: 5px 15px;
+      background-color: #e8e8e8;
+      color: #8b786f;
+      font-size: 23px;
+      cursor: pointer;
+      font-family: 'Open Sans', sans-serif;
+    }
   </style>
 
   <body style="margin-right:95px;margin-left:95px">
@@ -37,7 +47,7 @@ title: Top OSINT Resources Visualization
    
     <div class="container">  
       
-    <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
+    <a href="https://metaosint.github.io/" class="button2"><strong>Home</strong></a>
     <a href="https://metaosint.github.io/table/" class="button"><strong>Full Results Table</strong></a>
     <a href="https://metaosint.github.io/faq/" class="button"><strong>FAQ</strong></a>
     <a href="https://metaosint.github.io/thanks/" class="button"><strong>Acknowledgments</strong></a>
