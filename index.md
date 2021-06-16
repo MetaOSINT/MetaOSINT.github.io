@@ -41,7 +41,7 @@ title: Top OSINT Resources Visualization
   
   <div class="container3">
 
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="315" height="385" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8">
+  <a href="https://metaosint.github.io/"><img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/MetaOSINT_logo.PNG" alt="MetaOSINT_logo" width="315" height="385" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8"></a>
   
    </div>
    
@@ -75,8 +75,8 @@ title: Top OSINT Resources Visualization
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
    
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Using MO:</strong> Description...desription...
-    <br>Practice safe OSINT! (Hint: use the Privacy / Operational Security bubble below for resources on the topic.)</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Using MO:</strong> Description...desription...</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Practice safe OSINT!</strong> (Hint: use the Privacy / Operational Security bubble below for resources on the topic.)</strong></p>
     <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT? No problem!</strong></p>
 
    <script type="module">
