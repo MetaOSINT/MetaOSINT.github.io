@@ -39,7 +39,7 @@ permalink: /table/
     <div class="container">  
       
     <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
-    <a href="https://metaosint.github.io/table/" class="button" background-color="#cfcfcf"><strong>Full Results Table</strong></a>
+    <a href="https://metaosint.github.io/table/" class="button" background-color=#cfcfcf><strong>Full Results Table</strong></a>
     <a href="https://metaosint.github.io/faq/" class="button"><strong>FAQ</strong></a>
     <a href="https://metaosint.github.io/thanks/" class="button"><strong>Acknowledgments</strong></a>
        
@@ -66,29 +66,7 @@ permalink: /table/
       
    </div>
    
-  |Cateogry|Sub-Category|Name|URL|Citations in Category|
-  |:---|:---|:---|:---|:---|
-  |Academic Resources|"Grey Literature"|Google Scholar (5)|https://scholar.google.com|5|
-  |Academic Resources|"Grey Literature"|Academia (5)|https://www.academia.edu/|5|
-  |Academic Resources|"Grey Literature"|ScienceDirect (4)|https://www.sciencedirect.com/|4|
-  |Academic Resources|"Grey Literature"|Page Press (4)|http://www.pagepress.org/|4|
-  |Academic Resources|"Grey Literature"|Grey guide (4)|http://greyguide.isti.cnr.it/|4|
-  |Academic Resources|"Grey Literature"|VLRC (3)|https://www.virtuallrc.com/|3|
-  |Academic Resources|"Grey Literature"|PQDT Open (3)|https://pqdtopen.proquest.com/search.html|3|
-  |Academic Resources|"Grey Literature"|JSTOR (3)|http://www.jstor.org|3|
-  |Academic Resources|"Grey Literature"|Zetoc (2)|http://zetoc.jisc.ac.uk|2|
-  |Academic Resources|"Grey Literature"|WorldWideScience.org (2)|http://worldwidescience.org|2|
-  |Academic Resources|"Grey Literature"|World Digital Library (2)|http://www.wdl.org|2|
-  |Academic Resources|"Grey Literature"|National library of Australia (2)|http://trove.nla.gov.au/|2|
-  |Academic Resources|"Grey Literature"|Science Publications (2)|http://www.thescipub.com|2|
-  |Academic Resources|"Grey Literature"|Social Science Research Network (2)|https://www.ssrn.com/en|2|
-  |Academic Resources|"Grey Literature"|Crossref (2)|https://search.crossref.org/|2|
-  |Academic Resources|"Grey Literature"|SCIRP (2)|http://www.scirp.org|2|
-  |Academic Resources|"Grey Literature"|ScienceDomain (2)|http://www.sciencedomain.org|2|
-  |Academic Resources|"Grey Literature"|Google scholar (2)|https://scholar.google.com/schhp?hl=en|2|
-  |Academic Resources|"Grey Literature"|Research Gate (2)|http://www.researchgate.net|2|
-  |Academic Resources|"Grey Literature"|Quetzal Search (2)|https://www.quetzal-search.info|2|
-  |Academic Resources|"Grey Literature"|Oxford Journals (2)|http://www.oxfordjournals.org|2|
+   <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Github link to download!</p>
       
   </body>
 
