@@ -59,10 +59,9 @@ title: Top OSINT Resources Visualization
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO enables open-source intelligence ("OSINT") practitioners to quickly identify relevant, publicly-available tools and resources, saving valuable time during investigations, research, and analysis.</p>
     
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO evaluated a staggering <strong>17,000 source links</strong> that appeared in a continually growing catalog of "OSINT tool & resource lists" shared throughout the OSINT community. For the first time, MO measured the overlap among these lists, in an effort to highlight the "top" resources, based on total number of shared list citations. In total, more than <strong>11,000 unique OSINT tools & resources were identified</strong> on <a href="https://metaosint.github.io/table/">nearly 30 evaluated lists</a> alone. The MO website specifically provides the <strong>4,817 resources</strong> cited multiple times across these lists.</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO evaluated a staggering <strong>17,000 source links</strong> that appeared in a continually growing catalog of "OSINT tool & resource lists" shared throughout the OSINT community. For the first time, MO measured the overlap among these lists, in an effort to highlight the "top" resources, based on the number of shared list citations. In total, more than <strong>11,000 unique OSINT tools & resources were identified</strong> on <a href="https://metaosint.github.io/table/">nearly 30 evaluated lists</a> alone. The MO website specifically provides the <strong>4,817 resources</strong> cited multiple times across these lists.</p>
     
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Despite some efforts to automate OSINT research (for example, see the Workflow / Productivity Tools > Programming / Automation bubbles below), open-source investigations, especially person searches, remain a manual effort. This is where MO can help.
-    <br>MO is expected to have two primary uses:</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Despite some efforts to automate OSINT research (for example, see the Workflow / Productivity Tools > Programming / Automation bubbles below), open-source investigations (especially person searches) remain a manual effort. This is where MO can help. MO is expected to have two primary uses:</p>
        
    <div class="container2">
 
