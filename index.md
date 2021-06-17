@@ -61,24 +61,22 @@ title: Top OSINT Resources Visualization
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO evaluated a staggering <strong>17,000 source links</strong> that appeared in a continually growing catalog of "OSINT tool & resource lists" shared throughout the OSINT community. For the first time, MO measured the overlap among these lists, in an effort to highlight the "top" resources, based on number of shared citations. In total, more than <strong>11,000 unique OSINT tools & resources were identified</strong> on <a href="https://metaosint.github.io/table/">nearly 30 evaluated lists</a> alone. The MO website specifically provides the <strong>4,810 resources</strong> cited multiple times across these lists.</p>
     
-    <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif">Despite some efforts to automate OSINT research (for example, see the Workflow / Productivity Tools > Programming / Automation bubbles below), open-source investigations (especially person searches) remain a manual effort. This is where MO helps. MO is expected to have two primary uses:</p>
+    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif">Despite some efforts to automate OSINT research (for example, see the Workflow / Productivity Tools > Programming / Automation bubbles below), open-source investigations (especially person searches) remain a manual effort. This is where MO helps. MO is expected to have two primary uses:</p>
        
    <div class="container2">
 
        <ul>
-         <li><strong>#1: </strong></li>
-         <li><strong>#2: </strong></li>
-         <li><strong>(Bonus!) #3: </strong></li>
+         <li><strong>#1:</strong> Quick prioritization of supporting tools & resources during an OSINT investigation. For example, dozens of tools now exist (<a href="https://github.com/MetaOSINT/MetaOSINT.github.io/blob/main/Full%20Results%20Table.csv#L1341"> more than 40!</a>) to check the existence of a specific username across social media sites. MO highlights which of these tools are cited most often on OSINT "resource lists", helping pinpoint good places to start your investigation. (Pro Tip: Use Identity / Person Search > Username in the chart below.)</li>
+         <li><strong>#2:</strong> Broaden your research scope. You likely have many go-to OSINT investigation resources, based on your unique needs and preferences. However, once leads are exhausted, additional intel sources are often needed. MO helps quickly identify other top-cited resources organized into common research/investigation categories as a next step once the trail inevitably runs cold. (For example, "What other resources exist for investigating this bitcoin wallet address?" Use E-Commerce & Cryptocurrency > Cryptocurrency & Blockchain to surface 33 resources that might help, including a small cluster of top-cited tools.</li>
+         <li><strong>(Bonus!) #3:</strong> </li>
        </ul>
       
    </div>
     
-    <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><strong>Navigating MO:</strong> It's pretty simple - follow the legend's instructions to zoom in and out of the MO bubble chart below, and - if you choose to - navigate directly to specific tools & resources. <strong>Practice safe OSINT!</strong> The lowest-level bubbles contain live resource links and should be clicked with discretion. (Pro Tip: use the Privacy / Operational Security bubble below for resources on the topic!)</p>
+    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif"><strong>Navigating MO:</strong> It's pretty simple - follow the guidance at the top of the MO bubble chart below to zoom in and out, and - if you choose to - navigate directly to specific tools & resources. <strong>Practice safe OSINT!</strong> The lowest-level bubbles contain live resource links and should be clicked with discretion. (Pro Tip: Inspect the Privacy / Operational Security bubble for resources on the topic!) <strong>Mo' OSINT? No problem!</strong></p>
    
-    <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's favority charity.</p>
+    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's favority charity.</p>
    
-    <p style="color:#8b786f;font-size:14px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT? No problem!</strong></p>
-
    <script type="module">
    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
    import define from "https://api.observablehq.com/@metaosint/metaosint.js?v=3";
