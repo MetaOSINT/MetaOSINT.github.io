@@ -76,7 +76,7 @@ title: Top OSINT Resources Visualization
       
    </div>
        
-    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's <a href="https://us.movember.com/mospace/14534080">favorite charity</a>.</p>
+    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small contribution to MO's <a href="https://us.movember.com/mospace/14534080">favorite charity</a>.</p>
       
   </body>
 
