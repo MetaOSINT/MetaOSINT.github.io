@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Interactive Chart"
+title: "Interactive OSINT Resource Chart"
 permalink: /chart/
 ---
 
