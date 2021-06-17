@@ -59,19 +59,6 @@ permalink: /faq/
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>What are the best ways to use MO?</strong></p>
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Depends on your goals. If you are unfamiliar with any resources in a certain category, it's best to begin with the <a href="https://metaosint.github.io/chart/">interactive chart</a>, to see if a small cluster of resources have been cited most often. From there, you may find it easiest to navigate within the <a href="https://metaosint.github.io/table/">results table</a> to inspect the less-cited sources (the smallest bubbles). Searching for a specific tool or type of resource? It may be best to start with the table and use keyboard search shortcuts (Ctrl + F or Command + F on Mac) for navigation. A few common example scenarios are provided below.</p>
-   
-   <div class="container2">
-
-       <ul>
-         <li>"I'm looking for a subject's presence on social media.": Probably best to start with the Identity / Person Search category bubble, then the Name or Username sub-category bubbles to identify potential usernames. If you already know a username, you could start directly with the Identity / Person Search > Username bubble or navigate directly to that sub-category in the table. For detailed ways to investigate certain social media sources, use the resources that fall within the Social Media category bubble.</li>
-         <li>"What  resources exist for investigating Telegram (or ___ social media site, forum, or chat/messaging platform)?": Either a) click into the Social Media category bubble in the chart, or b) if you know the name or general type of source/site, it's likely best to navigate directly to the results table and use keyboard search shortcuts to search for the desired source/site.
-         <li>"What resources exist for investigating a bitcoin wallet address?": Use E-Commerce & Cryptocurrency > Cryptocurrency & Blockchain</li>
-         <li>"I suspect that I'm reading disinformation / misinformation. My go-to fact-checking source was inconclusive. Do other resources exist?": Yes, many! (28 according to just the source lists evaluated by MO) Use News & News Verification > News Verification / Disinformation sub-category via the chart or directly within the table.</li>
-          <li>"Is it possible to gather intelligence with a shipping/tracking number?": Yes, try the Business & Corporate Search / Records category. (Hint: only one resource was cited multiple times within this sub-category.)</li>
-          <li>"I'm looking for intelligence from non-English sources.": A good place to start could be Web Search Engines > Non-U.S. Alternately, some of the resources in the Social Media category were grouped by main country of use in the input source lists.</li>
-       </ul>
-      
-   </div>
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Is MO automatically updated?</strong></p>
     
@@ -98,7 +85,6 @@ permalink: /faq/
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Through a similar process! We likewise did not set out to reinvent the wheel and determine our own OSINT category labeling. Like the resources themselves, we evaluated overlap among the resources' highest-level and in some cases secondary category labels - these were provided by most of the input source lists and in part contributed to which source lists were included here.</p>
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">In doing this, we sought to use the labeling conventions most commonly seen across the source lists. There was a significant amount of overlap in labeling conventions (although this was one of the most manual tasks of the project). There is likely an amount of redunancy in the category label - for example, many Social Media searches are by their nature Person Searches too. But given social media's prominence as an OSINT source, it is typically reserved its own cateogry on OSINT resource lists. We sought to mimic this structure commonly present among the input source lists.</p>
-
    
   </body>
 
