@@ -58,7 +58,7 @@ title: Top OSINT Resources Visualization
     <p style="color:#8b786f;font-size:22px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT, Mo' Problems?</strong>
     <br>MetaOSINT ("MO") is here to help.</p>
 
-    <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><a href="https://metaosint.github.io/chart/">Jump directly to the interactive MO chart (the good stuff).</a></p>
+    <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><a href="https://metaosint.github.io/chart/"><strong>Jump directly to the interactive MO chart (the good stuff).</strong></a></p>
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO enables open-source intelligence ("OSINT") practitioners to quickly identify relevant, publicly-available tools and resources, saving valuable time during investigations, research, and analysis.</p>
     
@@ -76,11 +76,11 @@ title: Top OSINT Resources Visualization
       
    </div>
        
-    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's <a href="https://movember.com/m/14534080?mc=1">favorite charity</a>.</p>
+    <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's <a href="https://us.movember.com/mospace/14534080">favorite charity</a>.</p>
       
   </body>
 
-<p><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
+<p><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
 <br><a href="https://twitter.com/IntelScott">Don't @ me</a> (Just kidding, please feel free. MO improvement suggestions and feedback are also welcome!)
 <br>Not into Twitter? I hear you. Get in touch <a href="mailto:MetaOSINT@protonmail.com">another way</a>.</p>
 
