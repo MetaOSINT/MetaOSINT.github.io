@@ -3553,8 +3553,7 @@ permalink: /table/
 |Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|DataBreaches|<a href='https://www.databreaches.net'>https://www.databreaches.net</a>|2|
 |Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|Snusbase|<a href='https://snusbase.com'>https://snusbase.com</a>|1|
 |Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|LeakCheck|<a href='https://leakcheck.io/'>https://leakcheck.io/</a>|1|
-|Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|_intelligenceX Magic File Tool|<a href='https://intelx.io/tools?tab=filetool ivMeta'>https://intelx.io/tools?tab=filetool ivMeta</a>|1| 
-
+|Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|intelligenceX Magic File Tool|<a href='https://intelx.io/tools?tab=filetool ivMeta'>https://intelx.io/tools?tab=filetool ivMeta</a>|1|
 |Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|Have I Been Sold|<a href='https://haveibeensold.app/'>https://haveibeensold.app/</a>|1|
 |Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|GlobaLeaks:|<a href='https://www.globaleaks.org/'>https://www.globaleaks.org/</a>|1|
 |Web / Technical / Threat Intelligence|Email / Credential / Data Leaks|BreachAlarm|<a href='https://breachalarm.com'>https://breachalarm.com</a>|1|
