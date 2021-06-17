@@ -70,13 +70,14 @@ permalink: /chart/
    
   </body>
 
-<div id="observablehq-chart-96fbc5e5"></div>
-<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
+<p style="color:#8b786f;font-size:10px;font-family: 'Roboto', sans-serif"><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
+<br><a href="https://twitter.com/IntelScott">Don't @ me</a> (Just kidding, please feel free. MO improvement suggestions and feedback are also welcome!)
+<br>Not into Twitter? I hear you. Get in touch <a href="mailto:MetaOSINT@protonmail.com">another way</a>.</p>
 
   <body style="margin-right:95px;margin-left:95px">
 
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="410" height="182" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_left" width="387" height="173" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
 
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="556" height="175" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
-
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="530" height="167" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
+   
     </body>
