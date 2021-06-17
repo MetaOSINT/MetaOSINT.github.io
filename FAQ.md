@@ -99,6 +99,10 @@ permalink: /faq/
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">In doing this, we sought to use the labeling conventions most commonly seen across the source lists. There was a significant amount of overlap in labeling conventions (although this was one of the most manual tasks of the project). There is likely an amount of redunancy in the category label - for example, many Social Media searches are by their nature Person Searches too. But given social media's prominence as an OSINT source, it is typically reserved its own cateogry on OSINT resource lists. We sought to mimic this structure commonly present among the input source lists.</p>
    
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Thanks for MetaOSINT, it's great. Could I buy you a coffee?</strong></p>
+
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">I'm good, but thanks! Glad you found MO useful - instead, we're very grateful if you consider 'paying it forward', perhaps with a small contribution to MO's <a href="https://us.movember.com/mospace/14534080">favorite charity</a>.</p>
+
   </body>
 
 <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
