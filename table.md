@@ -1013,7 +1013,7 @@ permalink: /table/
 |Identity / Person Search|Email|AnalyzeID|<a href='http://analyzeid.com/'>http://analyzeid.com/</a>|4|
 |Identity / Person Search|Email|Whatismyipaddress.com|<a href='http://whatismyipaddress.com/trace-email'>http://whatismyipaddress.com/trace-email</a>|3|
 |Identity / Person Search|Email|TCIPUTILS.com Email Test|<a href='http://www.tcpiputils.com/email-test'>http://www.tcpiputils.com/email-test</a>|3|
-|Identity / Person Search|Email|Snov.io|<a href='https://snov.io|https://chrome.google.com/webstore/detail/email-finder/einnffiilpmgldkapbikhkeicohlaapj'>https://snov.io|https://chrome.google.com/webstore/detail/email-finder/einnffiilpmgldkapbikhkeicohlaapj</a>|3|
+|Identity / Person Search|Email|Snov.io|<a href='https://snov.iohttps://chrome.google.com/webstore/detail/email-finder/einnffiilpmgldkapbikhkeicohlaapj'>https://snov.iohttps://chrome.google.com/webstore/detail/email-finder/einnffiilpmgldkapbikhkeicohlaapj</a>|3|
 |Identity / Person Search|Email|RocketReach|<a href='https://rocketreach.co/'>https://rocketreach.co/</a>|3|
 |Identity / Person Search|Email|Robtex.com|<a href='https://www.robtex.com/'>https://www.robtex.com/</a>|3|
 |Identity / Person Search|Email|ReverseGenie|<a href='http://www.reversegenie.com/email.php'>http://www.reversegenie.com/email.php</a>|3|
@@ -1028,15 +1028,15 @@ permalink: /table/
 |Identity / Person Search|Email|Mapmakerpedia|<a href='https://sites.google.com/site/mapmakerpedia/home'>https://sites.google.com/site/mapmakerpedia/home</a>|2|
 |Identity / Person Search|Email|ManyContacts (SN Results)|<a href='https://www.manycontacts.com/'>https://www.manycontacts.com/</a>|2|
 |Identity / Person Search|Email|Spy Dialer|<a href='http://spydialer.com/'>http://spydialer.com/</a>|2|
-|Identity / Person Search|Email|SignalHire|<a href='https://www.signalhire.com|'>https://www.signalhire.com|</a>|2|
-|Identity / Person Search|Email|Sellhack|<a href='https://sellhack.com|https://sellhack.com/install.html'>https://sellhack.com|https://sellhack.com/install.html</a>|2|
+|Identity / Person Search|Email|SignalHire|<a href='https://www.signalhire.com'>https://www.signalhire.com</a>|2|
+|Identity / Person Search|Email|Sellhack|<a href='https://sellhack.comhttps://sellhack.com/install.html'>https://sellhack.comhttps://sellhack.com/install.html</a>|2|
 |Identity / Person Search|Email|Peepmail|<a href='http://www.samy.pl/peepmail'>http://www.samy.pl/peepmail</a>|2|
 |Identity / Person Search|Email|Public Email Records|<a href='http://publicemailrecords.com/'>http://publicemailrecords.com/</a>|2|
-|Identity / Person Search|Email|Nymeria|<a href='https://www.nymeria.io|'>https://www.nymeria.io|</a>|2|
+|Identity / Person Search|Email|Nymeria|<a href='https://www.nymeria.io'>https://www.nymeria.io</a>|2|
 |Identity / Person Search|Email|Email Header Analyzer|<a href='https://mxtoolbox.com/emailheaders.aspxEmailHeaderTracer'>https://mxtoolbox.com/emailheaders.aspxEmailHeaderTracer</a>|2|
 |Identity / Person Search|Email|MailDB|<a href='https://maildb.io/'>https://maildb.io/</a>|2|
 |Identity / Person Search|Email|IPlogger.org|<a href='http://iplogger.org/'>http://iplogger.org/</a>|2|
-|Identity / Person Search|Email|Improver|<a href='https://improver.io|'>https://improver.io|</a>|2|
+|Identity / Person Search|Email|Improver|<a href='https://improver.io'>https://improver.io</a>|2|
 |Identity / Person Search|Email|hacked-emails|<a href='https://hacked-emails.com/check_email'>https://hacked-emails.com/check_email</a>|2|
 |Identity / Person Search|Email|Grabify|<a href='https://grabify.link'>https://grabify.link</a>|2|
 |Identity / Person Search|Email|email-osint-ripper|<a href='https://github.com/Quantika14/email-osint-ripperEmailValidator'>https://github.com/Quantika14/email-osint-ripperEmailValidator</a>|2|
@@ -1098,14 +1098,14 @@ permalink: /table/
 |Identity / Person Search|Job / Professional|MarketVisual|<a href='http://www.marketvisual.com'>http://www.marketvisual.com</a>|4|
 |Identity / Person Search|Job / Professional|crunchbase|<a href='https://www.crunchbase.com/'>https://www.crunchbase.com/</a>|4|
 |Identity / Person Search|Job / Professional|Xing|<a href='http://www.xing.com'>http://www.xing.com</a>|2|
-|Identity / Person Search|Job / Professional|Seekout|<a href='https://www.seekout.io|'>https://www.seekout.io|</a>|2|
-|Identity / Person Search|Job / Professional|Lusha|<a href='https://www.lusha.com|https://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna?hl=en'>https://www.lusha.com|https://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna?hl=en</a>|2|
+|Identity / Person Search|Job / Professional|Seekout|<a href='https://www.seekout.io'>https://www.seekout.io</a>|2|
+|Identity / Person Search|Job / Professional|Lusha|<a href='https://www.lusha.comhttps://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna?hl=en'>https://www.lusha.comhttps://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna?hl=en</a>|2|
 |Identity / Person Search|Job / Professional|Lusha|<a href='https://www.lusha.co/'>https://www.lusha.co/</a>|2|
 |Identity / Person Search|Job / Professional|Linkedin|<a href='http://www.linkedin.com/'>http://www.linkedin.com/</a>|2|
 |Identity / Person Search|Job / Professional|Lead Ferret|<a href='https://leadferret.com/search'>https://leadferret.com/search</a>|2|
 |Identity / Person Search|Job / Professional|Indeed|<a href='http://www.indeed.com/'>http://www.indeed.com/</a>|2|
 |Identity / Person Search|Job / Professional|Human Predictions|<a href='https://humanpredictions.io/'>https://humanpredictions.io/</a>|2|
-|Identity / Person Search|Job / Professional|Hiretual|<a href='https://hiretual.com|https://chrome.google.com/webstore/detail/hiretual-10x-faster-talen/jeablngoapekimaeoeclgcefdcpjhjcg'>https://hiretual.com|https://chrome.google.com/webstore/detail/hiretual-10x-faster-talen/jeablngoapekimaeoeclgcefdcpjhjcg</a>|2|
+|Identity / Person Search|Job / Professional|Hiretual|<a href='https://hiretual.comhttps://chrome.google.com/webstore/detail/hiretual-10x-faster-talen/jeablngoapekimaeoeclgcefdcpjhjcg'>https://hiretual.comhttps://chrome.google.com/webstore/detail/hiretual-10x-faster-talen/jeablngoapekimaeoeclgcefdcpjhjcg</a>|2|
 |Identity / Person Search|Job / Professional|Linkedin Advanced Search|<a href='https://www.linkedin.com/vsearch/f?adv=true&trk=federated_advs'>https://www.linkedin.com/vsearch/f?adv=true&trk=federated_advs</a>|1|
 |Identity / Person Search|Job / Professional|Jobster (Job Posts / Resumes)|<a href='http://www.jobster.com/'>http://www.jobster.com/</a>|1|
 |Identity / Person Search|Job / Professional|Linkedin site search|<a href='https://www.google.com/#q=site:linkedin.com+%22name%22+%22city%22'>https://www.google.com/#q=site:linkedin.com+%22name%22+%22city%22</a>|1|
@@ -1247,7 +1247,7 @@ permalink: /table/
 |Identity / Person Search|Name / General Person Search|Web Wiz|<a href='https://network-tools.webwiz.net'>https://network-tools.webwiz.net</a>|1|
 |Identity / Person Search|Name / General Person Search|MuckRack|<a href='http://muckrack.comNationalSpeakersAssociation'>http://muckrack.comNationalSpeakersAssociation</a>|1|
 |Identity / Person Search|Name / General Person Search|Maven|<a href='http://www.maven.co'>http://www.maven.co</a>|1|
-|Identity / Person Search|Name / General Person Search|loxo|<a href='https://loxo.co|https://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl'>https://loxo.co|https://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl</a>|1|
+|Identity / Person Search|Name / General Person Search|loxo|<a href='https://loxo.cohttps://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl'>https://loxo.cohttps://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl</a>|1|
 |Identity / Person Search|Name / General Person Search|Lawyers.com (Martindale-Hubbell)|<a href='http://lawyers.com/'>http://lawyers.com/</a>|1|
 |Identity / Person Search|Name / General Person Search|Internet Experts|<a href='http://www.internetexperts.infoLexisNexis:SearchforanExpert'>http://www.internetexperts.infoLexisNexis:SearchforanExpert</a>|1|
 |Identity / Person Search|Name / General Person Search|Intelligence X OSINT Tools|<a href='https://intelx.io/tools'>https://intelx.io/tools</a>|1|
@@ -1739,7 +1739,7 @@ permalink: /table/
 |Images / Video / Audio / File Metadata Search|Images|Cluuz|<a href='http://www.cluuz.com/'>http://www.cluuz.com/</a>|2|
 |Images / Video / Audio / File Metadata Search|Images|clipart-library|<a href='http://clipart-library.com/'>http://clipart-library.com/</a>|2|
 |Images / Video / Audio / File Metadata Search|Images|Clarify|<a href='http://clarify.io'>http://clarify.io</a>|2|
-|Images / Video / Audio / File Metadata Search|Images|View Image|<a href='https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk||https://addons.mozilla.org/en-US/firefox/addon/view-image/|https://github.com/bijij/ViewImage'>https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk||https://addons.mozilla.org/en-US/firefox/addon/view-image/|https://github.com/bijij/ViewImage</a>|2|
+|Images / Video / Audio / File Metadata Search|Images|View Image|<a href='https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjkhttps://addons.mozilla.org/en-US/firefox/addon/view-image/https://github.com/bijij/ViewImage'>https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjkhttps://addons.mozilla.org/en-US/firefox/addon/view-image/https://github.com/bijij/ViewImage</a>|2|
 |Images / Video / Audio / File Metadata Search|Images|EXiF reader|<a href='https://chrome.google.com/webstore/detail/exif-reader/nchnjcdahncnilbicljpnbfobpnljnki'>https://chrome.google.com/webstore/detail/exif-reader/nchnjcdahncnilbicljpnbfobpnljnki</a>|2|
 |Images / Video / Audio / File Metadata Search|Images|Camera Summary (Alternative EXIF Viewer)|<a href='http://camerasummary.com/'>http://camerasummary.com/</a>|2|
 |Images / Video / Audio / File Metadata Search|Images|Binpad|<a href='http://www.binpad.com/'>http://www.binpad.com/</a>|2|
@@ -1963,14 +1963,14 @@ permalink: /table/
 |Images / Video / Audio / File Metadata Search|Video|Clarify|<a href='http://clarify.io'>http://clarify.io</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|CamVista|<a href='http://www.camvista.com/'>http://www.camvista.com/</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Wayback Machine|<a href='https://archive.org'>https://archive.org</a>|1|
-|Images / Video / Audio / File Metadata Search|Video|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom</a>|1|
+|Images / Video / Audio / File Metadata Search|Video|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Vimeo|<a href='https://vimeo.com/'>https://vimeo.com/</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|VLC|<a href='https://www.videolan.org/vlc'>https://www.videolan.org/vlc</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|YouTube Video Editor|<a href='https://support.google.com/youtube/answer/183851?visi'>https://support.google.com/youtube/answer/183851?visi</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Quicktime|<a href='https://support.apple.com/quicktime'>https://support.apple.com/quicktime</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Screencast-o-matic|<a href='http://www.screencast-o-matic.com/'>http://www.screencast-o-matic.com/</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Powtoon|<a href='https://www.powtoon.com'>https://www.powtoon.com</a>|1|
-|Images / Video / Audio / File Metadata Search|Video|Periscope|<a href='https://www.periscope.tv|https://www.pscp.tv'>https://www.periscope.tv|https://www.pscp.tv</a>|1|
+|Images / Video / Audio / File Metadata Search|Video|Periscope|<a href='https://www.periscope.tvhttps://www.pscp.tv'>https://www.periscope.tvhttps://www.pscp.tv</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|NCH Videopad Video Editor|<a href='http://www.nchsoftware.com/videopadNero'>http://www.nchsoftware.com/videopadNero</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Photo Scan|<a href='https://www.microsoft.com/en-us/p/photo-scan/9nblggh4s87w?activetab=pivot:overviewtab'>https://www.microsoft.com/en-us/p/photo-scan/9nblggh4s87w?activetab=pivot:overviewtab</a>|1|
 |Images / Video / Audio / File Metadata Search|Video|Magix|<a href='https://www.magix.com'>https://www.magix.com</a>|1|
@@ -2287,7 +2287,7 @@ permalink: /table/
 |Privacy / Operational Security|Anonymity / Anonymous Browsing|Disconnect|<a href='https://disconnect.me'>https://disconnect.me</a>|1|
 |Privacy / Operational Security|Anonymity / Anonymous Browsing|Safari|<a href='http://www.apple.com/safari'>http://www.apple.com/safari</a>|1|
 |Privacy / Operational Security|Anonymity / Anonymous Browsing|Admuncher|<a href='https://www.admuncher.com/'>https://www.admuncher.com/</a>|1|
-|Privacy / Operational Security|Anonymity / Anonymous Browsing|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom</a>|1|
+|Privacy / Operational Security|Anonymity / Anonymous Browsing|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom</a>|1|
 |Privacy / Operational Security|Anonymity / Anonymous Browsing|WHOER|<a href='https://whoer.net'>https://whoer.net</a>|1|
 |Privacy / Operational Security|Anonymity / Anonymous Browsing|w3schools.com|<a href='https://www.w3schools.com/'>https://www.w3schools.com/</a>|1|
 |Privacy / Operational Security|Anonymity / Anonymous Browsing|Vivaldi|<a href='https://vivaldi.com'>https://vivaldi.com</a>|1|
@@ -2372,7 +2372,7 @@ permalink: /table/
 |Privacy / Operational Security|Uncategorized|Avast|<a href='https://www.avast.com'>https://www.avast.com</a>|3|
 |Privacy / Operational Security|Uncategorized|HTTPS Everywhere|<a href='http://twofactorauth.org/'>http://twofactorauth.org/</a>|3|
 |Privacy / Operational Security|Uncategorized|Qwant|<a href='https://www.qwant.com/'>https://www.qwant.com/</a>|3|
-|Privacy / Operational Security|Uncategorized|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom</a>|3|
+|Privacy / Operational Security|Uncategorized|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom</a>|3|
 |Privacy / Operational Security|Uncategorized|Virus Total|<a href='https://www.virustotal.com'>https://www.virustotal.com</a>|2|
 |Privacy / Operational Security|Uncategorized|Tech Solidarity|<a href='http://techsolidarity.org/'>http://techsolidarity.org/</a>|2|
 |Privacy / Operational Security|Uncategorized|Security in a Box|<a href='https://securityinabox.org'>https://securityinabox.org</a>|2|
@@ -2692,7 +2692,7 @@ permalink: /table/
 |Social Media|Chat & Messaging Apps|Free Online Phone|<a href='https://www.freeonlinephone.orgFreePhoneNum'>https://www.freeonlinephone.orgFreePhoneNum</a>|1|
 |Social Media|Chat & Messaging Apps|Twilio.com|<a href='http://twilio.com'>http://twilio.com</a>|1|
 |Social Media|Chat & Messaging Apps|Telegram Stats/Search|<a href='https://tgstat.ru/'>https://tgstat.ru/</a>|1|
-|Social Media|Chat & Messaging Apps|Home | Lyzem.com|<a href='https://lyzem.com/'>https://lyzem.com/</a>|1|
+|Social Media|Chat & Messaging Apps|Home  Lyzem.com|<a href='https://lyzem.com/'>https://lyzem.com/</a>|1|
 |Social Media|Chat & Messaging Apps|Google map NL|<a href='http://bit.ly/2vREXsn'>http://bit.ly/2vREXsn</a>|1|
 |Social Media|Classmates.com|Classmates|<a href='http://www.classmates.com'>http://www.classmates.com</a>|2|
 |Social Media|Classmates.com|Classmates|<a href='http://www.classmates.com'>http://www.classmates.com</a>|1|
@@ -2722,7 +2722,7 @@ permalink: /table/
 |Social Media|Facebook|Stalkscan|<a href='https://www.stalkscan.com/'>https://www.stalkscan.com/</a>|3|
 |Social Media|Facebook|Shared Count|<a href='https://www.sharedcount.com'>https://www.sharedcount.com</a>|3|
 |Social Media|Facebook|Facebook Search|<a href='http://search.fb.com/'>http://search.fb.com/</a>|3|
-|Social Media|Facebook|TikTok Quick Search | OSINT Combine|<a href='https://www.osintcombine.com/tiktok-quick-search'>https://www.osintcombine.com/tiktok-quick-search</a>|3|
+|Social Media|Facebook|TikTok Quick Search  OSINT Combine|<a href='https://www.osintcombine.com/tiktok-quick-search'>https://www.osintcombine.com/tiktok-quick-search</a>|3|
 |Social Media|Facebook|ExtractFace|<a href='http://le-tools.com/ExtractFace.html#download'>http://le-tools.com/ExtractFace.html#download</a>|3|
 |Social Media|Facebook|Facebook Graph Searcher|<a href='https://intelx.io/tools?tab=facebook'>https://intelx.io/tools?tab=facebook</a>|3|
 |Social Media|Facebook|Fb-sleep-stats|<a href='https://github.com/sqren/fb-sleep-stats'>https://github.com/sqren/fb-sleep-stats</a>|3|
@@ -2738,7 +2738,7 @@ permalink: /table/
 |Social Media|Facebook|Social-searcher.com|<a href='http://www.social-searcher.com/social-buzz/'>http://www.social-searcher.com/social-buzz/</a>|2|
 |Social Media|Facebook|Google Social Search|<a href='http://www.social-searcher.com/google-social-search/'>http://www.social-searcher.com/google-social-search/</a>|2|
 |Social Media|Facebook|Facebook Bulk ID (Usernames to #s)|<a href='http://seotoolstation.com/bulk-facebook-id-finder'>http://seotoolstation.com/bulk-facebook-id-finder</a>|2|
-|Social Media|Facebook|Social Geo Lens | OSINT Combine|<a href='https://www.osintcombine.com/social-geo-lens'>https://www.osintcombine.com/social-geo-lens</a>|2|
+|Social Media|Facebook|Social Geo Lens  OSINT Combine|<a href='https://www.osintcombine.com/social-geo-lens'>https://www.osintcombine.com/social-geo-lens</a>|2|
 |Social Media|Facebook|LikeAlyzer|<a href='http://likealyzer.com/'>http://likealyzer.com/</a>|2|
 |Social Media|Facebook|Graph Tips|<a href='http://graph.tips'>http://graph.tips</a>|2|
 |Social Media|Facebook|Tweets analyzer|<a href='https://github.com/x0rz/tweets_analyzerTweetStats'>https://github.com/x0rz/tweets_analyzerTweetStats</a>|2|
@@ -2835,7 +2835,7 @@ permalink: /table/
 |Social Media|General & Uncategorized|Talkwalker|<a href='https://www.talkwalker.com'>https://www.talkwalker.com</a>|1|
 |Social Media|General & Uncategorized|SocioViz|<a href='http://socioviz.net'>http://socioviz.net</a>|1|
 |Social Media|General & Uncategorized|SocialBlade.com|<a href='http://socialblade.com/'>http://socialblade.com/</a>|1|
-|Social Media|General & Uncategorized|CrowdTangle | Content Discovery and Social Monitoring Made Easy|<a href='https://www.crowdtangle.com/'>https://www.crowdtangle.com/</a>|1|
+|Social Media|General & Uncategorized|CrowdTangle  Content Discovery and Social Monitoring Made Easy|<a href='https://www.crowdtangle.com/'>https://www.crowdtangle.com/</a>|1|
 |Social Media|General & Uncategorized|Brand24 - Social Media Monitoring Tool|<a href='https://brand24.com/'>https://brand24.com/</a>|1|
 |Social Media|Google Plus|Google+|<a href='http://plus.google.com'>http://plus.google.com</a>|5|
 |Social Media|Google Plus|PlusFeed|<a href='http://plusfeed.frosas.net/'>http://plusfeed.frosas.net/</a>|2|
@@ -2897,7 +2897,7 @@ permalink: /table/
 |Social Media|Live Streaming|Perisearch|<a href='https://www.perisearch.xyz/'>https://www.perisearch.xyz/</a>|1|
 |Social Media|Live Streaming|Periscope Map|<a href='http://www.periscopemap.live/'>http://www.periscopemap.live/</a>|1|
 |Social Media|Live Streaming|ZamZar (Periscope Download Converter)|<a href='http://www.zamzar.com/convert/ts-to-mp4/'>http://www.zamzar.com/convert/ts-to-mp4/</a>|1|
-|Social Media|Live Streaming|Periscope|<a href='https://www.periscope.tv|https://www.pscp.tv'>https://www.periscope.tv|https://www.pscp.tv</a>|1|
+|Social Media|Live Streaming|Periscope|<a href='https://www.periscope.tvhttps://www.pscp.tv'>https://www.periscope.tvhttps://www.pscp.tv</a>|1|
 |Social Media|Live Streaming|Convertio (Periscope Download Converter)|<a href='https://convertio.co/ts-mp4/'>https://convertio.co/ts-mp4/</a>|1|
 |Social Media|Mixi|Mixi (Japan)|<a href='https://mixi.jp'>https://mixi.jp</a>|5|
 |Social Media|Myspace|MySpace (Social Network)|<a href='http://myspace.com'>http://myspace.com</a>|5|
@@ -3315,7 +3315,7 @@ permalink: /table/
 |Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|Reddit: Onions|<a href='https://www.reddit.com/r/onions'>https://www.reddit.com/r/onions</a>|2|
 |Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|Reddit: Deep Web|<a href='https://www.reddit.com/r/deepweb'>https://www.reddit.com/r/deepweb</a>|2|
 |Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|OnionShare|<a href='https://onionshare.org'>https://onionshare.org</a>|2|
-|Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|Onionscan|<a href='https://onionscan.org|https://github.com/s-rah/onionscan'>https://onionscan.org|https://github.com/s-rah/onionscan</a>|2|
+|Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|Onionscan|<a href='https://onionscan.orghttps://github.com/s-rah/onionscan'>https://onionscan.orghttps://github.com/s-rah/onionscan</a>|2|
 |Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|Onion Cab|<a href='https://onion.cab/'>https://onion.cab/</a>|2|
 |Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|Parazite|<a href='http://kpynyvym6xqi7wz2.onion/'>http://kpynyvym6xqi7wz2.onion/</a>|2|
 |Web / Technical / Threat Intelligence|Dark & Deep Web and Onion/TOR|IACA Dark Web Investigation Support|<a href='https://iaca-darkweb-tools.com/'>https://iaca-darkweb-tools.com/</a>|2|
@@ -4387,14 +4387,14 @@ permalink: /table/
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|RSS Bridge|<a href='https://github.com/RSS-Bridge/rss-bridge'>https://github.com/RSS-Bridge/rss-bridge</a>|4|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Evernote|<a href='http://evernote.com'>http://evernote.com</a>|4|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Diigo|<a href='https://www.diigo.com'>https://www.diigo.com</a>|4|
-|Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/|https://github.com/LionRoar/WebExt-OwlZoom</a>|4|
+|Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Sidebar+|<a href='https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom'>https://addons.mozilla.org/en-US/firefox/addon/owlzoom-youtube/https://github.com/LionRoar/WebExt-OwlZoom</a>|4|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Workflowy|<a href='https://workflowy.com'>https://workflowy.com</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Webpreserver.com|<a href='http://webpreserver.com'>http://webpreserver.com</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Warcreate.com|<a href='http://warcreate.com'>http://warcreate.com</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|UnMHT|<a href='http://www.unmht.org/unmht/en_index.html'>http://www.unmht.org/unmht/en_index.html</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Fiddler2|<a href='http://www.telerik.com/download/fiddler'>http://www.telerik.com/download/fiddler</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Cherrytree|<a href='http://www.giuspen.com/cherrytree'>http://www.giuspen.com/cherrytree</a>|3|
-|Workflow / Productivity Tools|Archiving / Evidence / Notetaking|RSS Box|<a href='https://github.com/stefansundin/rssbox|https://rssbox.herokuapp.com'>https://github.com/stefansundin/rssbox|https://rssbox.herokuapp.com</a>|3|
+|Workflow / Productivity Tools|Archiving / Evidence / Notetaking|RSS Box|<a href='https://github.com/stefansundin/rssboxhttps://rssbox.herokuapp.com'>https://github.com/stefansundin/rssboxhttps://rssbox.herokuapp.com</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Getfireshot.com|<a href='https://getfireshot.com'>https://getfireshot.com</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Flowchart Maker & Online Diagram Tool|<a href='http://draw.io'>http://draw.io</a>|3|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Archive.today|<a href='http://archive.today/'>http://archive.today/</a>|3|
@@ -4418,7 +4418,7 @@ permalink: /table/
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Hunch.ly|<a href='https://www.hunch.ly/'>https://www.hunch.ly/</a>|2|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Graph Commons|<a href='https://graphcommons.com'>https://graphcommons.com</a>|2|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Tusk|<a href='https://github.com/klauscfhq/tusk'>https://github.com/klauscfhq/tusk</a>|2|
-|Workflow / Productivity Tools|Archiving / Evidence / Notetaking|RSS Hub|<a href='https://github.com/DIYgod/RSSHub|https://docs.rsshub.app/en/social-media.html'>https://github.com/DIYgod/RSSHub|https://docs.rsshub.app/en/social-media.html</a>|2|
+|Workflow / Productivity Tools|Archiving / Evidence / Notetaking|RSS Hub|<a href='https://github.com/DIYgod/RSSHubhttps://docs.rsshub.app/en/social-media.html'>https://github.com/DIYgod/RSSHubhttps://docs.rsshub.app/en/social-media.html</a>|2|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|ShareX|<a href='https://getsharex.com'>https://getsharex.com</a>|2|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Fraps|<a href='http://www.fraps.com'>http://www.fraps.com</a>|2|
 |Workflow / Productivity Tools|Archiving / Evidence / Notetaking|Skitch|<a href='https://evernote.com/skitch'>https://evernote.com/skitch</a>|2|
@@ -4614,7 +4614,7 @@ permalink: /table/
 |Workflow / Productivity Tools|Communication|Adobe|<a href='https://www.adobe.com'>https://www.adobe.com</a>|1|
 |Workflow / Productivity Tools|Email & Calendars|Streak|<a href='https://www.streak.com/'>https://www.streak.com/</a>|2|
 |Workflow / Productivity Tools|Email & Calendars|Yesware|<a href='https://www.yesware.com/'>https://www.yesware.com/</a>|1|
-|Workflow / Productivity Tools|Email & Calendars|loxo|<a href='https://loxo.co|https://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl'>https://loxo.co|https://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl</a>|1|
+|Workflow / Productivity Tools|Email & Calendars|loxo|<a href='https://loxo.cohttps://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl'>https://loxo.cohttps://chrome.google.com/webstore/detail/loxo-chrome-extension/fcbgokodjegegkilocggnlekdmebfcpl</a>|1|
 |Workflow / Productivity Tools|Email & Calendars|Intro - AI Sourcing Tool|<a href='https://intro.io/'>https://intro.io/</a>|1|
 |Workflow / Productivity Tools|Email & Calendars|Sidekick|<a href='https://www.hubspot.com/products/sales/email-tracking'>https://www.hubspot.com/products/sales/email-tracking</a>|1|
 |Workflow / Productivity Tools|Email & Calendars|Boomerang Mail|<a href='http://www.boomeranggmail.com'>http://www.boomeranggmail.com</a>|1|
@@ -4850,8 +4850,8 @@ permalink: /table/
 |Workflow / Productivity Tools|Visualization / Data Aggregation / Analysis|Canva|<a href='https://www.canva.com/create/presentations'>https://www.canva.com/create/presentations</a>|1|
 |Workflow / Productivity Tools|Visualization / Data Aggregation / Analysis|Befunky|<a href='https://www.befunky.com'>https://www.befunky.com</a>|1|
 |Workflow / Productivity Tools|Visualization / Data Aggregation / Analysis|Goo.gl|<a href='https://developers.google.com/url-shortener/v1/getting_started?hl=en'>https://developers.google.com/url-shortener/v1/getting_started?hl=en</a>|1|
-|Workflow / Productivity Tools|VMs & Browsers|Start.me|<a href='https://chrome.google.com/webstore/detail/new-tab-draft/nmfjkeiebceinkbggliapgfdjphocpdh?hl=en|'>https://chrome.google.com/webstore/detail/new-tab-draft/nmfjkeiebceinkbggliapgfdjphocpdh?hl=en|</a>|4|
-|Workflow / Productivity Tools|VMs & Browsers|Tab Wrangler|<a href='https://chrome.google.com/webstore/detail/tab-manager/dklidlbmompnpdclmhaaemodlkpddaga|https://addons.mozilla.org/en-US/firefox/addon/tab-manager-webextension'>https://chrome.google.com/webstore/detail/tab-manager/dklidlbmompnpdclmhaaemodlkpddaga|https://addons.mozilla.org/en-US/firefox/addon/tab-manager-webextension</a>|3|
+|Workflow / Productivity Tools|VMs & Browsers|Start.me|<a href='https://chrome.google.com/webstore/detail/new-tab-draft/nmfjkeiebceinkbggliapgfdjphocpdh?hl=en'>https://chrome.google.com/webstore/detail/new-tab-draft/nmfjkeiebceinkbggliapgfdjphocpdh?hl=en</a>|4|
+|Workflow / Productivity Tools|VMs & Browsers|Tab Wrangler|<a href='https://chrome.google.com/webstore/detail/tab-manager/dklidlbmompnpdclmhaaemodlkpddagahttps://addons.mozilla.org/en-US/firefox/addon/tab-manager-webextension'>https://chrome.google.com/webstore/detail/tab-manager/dklidlbmompnpdclmhaaemodlkpddagahttps://addons.mozilla.org/en-US/firefox/addon/tab-manager-webextension</a>|3|
 |Workflow / Productivity Tools|VMs & Browsers|Instant Data Scraper|<a href='https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah'>https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah</a>|3|
 |Workflow / Productivity Tools|VMs & Browsers|Subgraph|<a href='https://subgraph.com'>https://subgraph.com</a>|2|
 |Workflow / Productivity Tools|VMs & Browsers|Open Source Intelligence Techniques|<a href='https://inteltechniques.com/'>https://inteltechniques.com/</a>|2|
