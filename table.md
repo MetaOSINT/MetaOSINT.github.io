@@ -56,10 +56,12 @@ permalink: /table/
        
     </div>
 
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">The full list of resources and citation counts that contribute to the <a href="https://metaosint.github.io/chart/">interactive MO chart</a> are provided below. More background details about this data set can be found in the <a href="https://metaosint.github.io/faq/">FAQ</a>.</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">The full list of 4,000+ resources and their associated citation counts, which contribute to the <a href="https://metaosint.github.io/chart/">interactive MO chart</a>, are provided below. More background details about this dataset can be found in the <a href="https://metaosint.github.io/faq/">FAQ</a>. Due to the list's length, we recommend using keyboard search shortcuts (Ctrl + F or Command + F on Mac) to navigate to categories or resources that you are intentionally searching for.</p>
      
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Sources List</strong>
-    <br>MO draws from the following list of OSINT tool & resources lists (meta, right?). Sources are listed in alphabetical order by domain name.</p>
+    <br>MO draws from the following list of OSINT tools & resources lists (meta, right?). Sources are listed in alphabetical order by domain name.</p>
+   
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>MO has not vetted the resources in the table below.</strong> It is possible that even resources cited several times across source lists may not be heavily vetted and could present operational security or confidentiality concerns. Again, <strong>always practice safe OSINT</strong> and only navigate to sites and utilize tools that you have independently vetted.</p>
        
    <div class="container2">
 
@@ -96,7 +98,7 @@ permalink: /table/
       
    </div>
    
-   <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Access a downloadable version of the full results <a href="https://github.com/MetaOSINT/MetaOSINT.github.io/blob/main/Full%20Results%20Table.csv">here</a>.</p>
+   <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Access a downloadable version of the full results <a href="https://github.com/MetaOSINT/MetaOSINT.github.io/blob/main/Full%20Results%20Table.csv">here</a>.</strong></p>
       
   </body>
 
