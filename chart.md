@@ -58,7 +58,10 @@ permalink: /chart/
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><br>Consider bookmarking this page to return directly to the chart next time.</p>
         
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Navigating MO:</strong> It's pretty simple - follow the guidance at the top of the bubble chart below to zoom in and out, and - if you choose to - navigate directly to specific tools & resources. <strong>Practice safe OSINT!</strong> The lowest-level bubble labels contain live resource links and should be clicked with discretion. (Pro Tip: Inspect the Privacy / Operational Security bubble for resources on the topic!) <strong>Mo' OSINT? No problem!</strong></p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Navigating MO:</strong> It's pretty simple - follow the guidance at the top of the bubble chart below to zoom in and out, and - if you choose to - navigate directly to specific tools & resources. <strong>Practice safe OSINT!</strong> The lowest-level bubble labels contain live resource links and should be clicked with discretion. (Pro Tip: Inspect the Privacy / Operational Security bubble for resources on the topic!)</p>
+   
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">We anticipate MO will be most helpful by pairing use of the chart with the <a href="https://metaosint.github.io/table/">full results table</a>. Searching for a specific tool or type of resource? It may be best to jump directly to the table and use keyboard search shortcuts (Ctrl + F or Command + F on Mac) to navigate to specific categories or resources. <strong>Mo' OSINT? No problem!</strong></p>
+
       
    <script type="module">
    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
