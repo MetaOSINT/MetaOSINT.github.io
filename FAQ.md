@@ -93,6 +93,12 @@ permalink: /faq/
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Whew! Thanks for bearing with me. Finally, purely for visuals' sake, only the resources <strong>cited multiple times within a given sub-category</strong> made it into the interactive chart.</p>
 
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Speaking of categories, how were those labels determined?</strong></p>
+   
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Through a similar process! We likewise did not set out to reinvent the wheel and determine our own OSINT category labeling. Like the resources themselves, we evaluated overlap among the resources' highest-level and in some cases secondary category labels - these were provided by most of the input source lists and in part contributed to which source lists were included here.</p>
+
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">In doing this, we sought to use the labeling conventions most commonly seen across the source lists. There was a significant amount of overlap in labeling conventions (although this was one of the most manual tasks of the project). There is likely an amount of redunancy in the category label - for example, many Social Media searches are by their nature Person Searches too. But given social media's prominence as an OSINT source, it is typically reserved its own cateogry on OSINT resource lists. We sought to mimic this structure commonly present among the input source lists.</p>
+
    
   </body>
 
