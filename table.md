@@ -4891,7 +4891,7 @@ permalink: /table/
 |Workflow / Productivity Tools|VMs & Browsers|tsurugi-linux.org|<a href='https://tsurugi-linux.org/'>https://tsurugi-linux.org/</a>|1|
 |Workflow / Productivity Tools|VMs & Browsers|Burp Suite|<a href='https://portswigger.net/burp/'>https://portswigger.net/burp/</a>|1|
 |Workflow / Productivity Tools|VMs & Browsers|Microsoft VMS|<a href='https://developer.microsoft.com/en-us/microsoft-edge/tools/vms'>https://developer.microsoft.com/en-us/microsoft-edge/tools/vms</a>|1|
-|Workflow / Productivity Tools|VMs & Browsers|4K Video Downloader|<a href='https://www.4kdownload.comClipConverter.cc'>https://www.4kdownload.comClipConverter.cc</a>|           1           |
+|Workflow / Productivity Tools|VMs & Browsers|4K Video Downloader|<a href='https://www.4kdownload.comClipConverter.cc'>https://www.4kdownload.comClipConverter.cc</a>|1|
 
 
 <div id="observablehq-chart-87f43f84"></div>
