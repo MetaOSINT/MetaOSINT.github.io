@@ -49,34 +49,54 @@ permalink: /table/
     <div class="container">  
       
     <a href="https://metaosint.github.io/" class="button"><strong>Home</strong></a>
+    <a href="https://metaosint.github.io/chart/" class="button"><strong>MO Chart</strong></a>
     <a href="https://metaosint.github.io/table/" class="button2"><strong>Full Results Table</strong></a>
     <a href="https://metaosint.github.io/faq/" class="button"><strong>FAQ</strong></a>
     <a href="https://metaosint.github.io/thanks/" class="button"><strong>Acknowledgments</strong></a>
        
     </div>
 
-    <p style="color:#8b786f;font-size:22px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Here is the sample header</strong>
-    <br>Here is the sub-header</p>
-
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Here is some description text</p>
-  
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">FAQ link</p>
-    
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Sources list.</strong>
-    <br>Sources are listed in alphabetical order by domain name.</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">The full list of resources and citation counts that contribute to the <a href="https://metaosint.github.io/chart/">interactive MO chart</a> are provided below. More background details about this data set can be found in the <a href="https://metaosint.github.io/faq/">FAQ</a>.</p>
+     
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Sources List</strong>
+    <br>MO draws from the following list of OSINT tool & resources lists (meta, right?). Sources are listed in alphabetical order by domain name.</p>
        
    <div class="container2">
 
        <ul>
-         <li><strong>#1: </strong></li>
-         <li><strong>#2: </strong></li>
-         <li><strong>#3: </strong></li>
-         <li><strong>#3: </strong></li>
+         <li><a href='https://300m.com/osint/'><strong>300m</strong></a></li>
+         <li><a href='https://booleanstrings.com/tools/'><strong>Boolean Strings</strong></a></li>
+         <li><a href='https://www.einvestigator.com/open-source-intelligence-tools/'><strong>eInvestigator OSINT Tools</strong></a></li>
+         <li><a href='https://github.com/IVMachiavelli/OSINT_Team_Links'><strong>OSINT Team</strong></a></li>
+         <li><a href='https://github.com/IVMachiavelli/OSINT-Browser-Plugins'><strong>OSINT Browser Plugins</strong></a></li>
+         <li><a href='https://github.com/jivoi/awesome-osint'><strong>Awesome OSINT</strong></a></li>
+         <li><a href='https://github.com/Ph055a/awesome_osint'><strong>OSINT Collection</strong></a></li>
+         <li><a href='https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit'><strong>Bellingcat OSINT Links</strong></a></li>
+         <li><a href='https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit#gid=0'><strong>AaronCTI - CTI & OSINT Online Resources</strong></a></li>
+         <li><a href='https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf'><strong>Open Source Intelligence Tools and Resources Handbook [2020]</strong></a></li>
+         <li><a href='https://www.intelligencefusion.co.uk/blog/the-best-open-source-intelligence-osint-tools-and-techniques'><strong>The Best OSINT Tools and Techniques</strong></a></li>
+         <li><a href='https://i-sight.com/resources/101-osint-resources-for-investigators/'><strong>101+ OSINT Resources for Investigators [2021]</strong></a></li>
+         <li><a href='https://netbootcamp.org/osinttools/'><strong>Tools: OSINT & Internet Investigations</strong></a></li>
+         <li><a href='http://onstrat.com/osint/'><strong>Online Strategies - Internet Tools and Resources for OSINT</strong></a></li>
+         <li><a href='http://osint.link/'><strong>OSINT.Link</strong></a></li>
+         <li><a href='https://www.osintcombine.com/osint-bookmarks'><strong>OSINTCombine</strong></a></li>
+         <li><a href='https://www.osintdojo.com/resources/'><strong>OSINT Dojo</strong></a></li>
+         <li><a href='http://osintessentials.com/'><strong>OSINT Essentials</strong></a></li>
+         <li><a href='https://osintfr.com/en/tools/'><strong>OSINT-FR Tools</strong></a></li>
+         <li><a href='http://osintframework.com/'><strong>OSINT Framework</strong></a></li>
+         <li><a href='https://osintgeek.de/tools'><strong>OSINT Geek</strong></a></li>
+         <li><a href='https://www.osinttechniques.com/osint-tools.html'><strong>OSINT Techniques</strong></a></li>
+         <li><a href='http://www.researchclinic.net/links.html'><strong>Research Clinic</strong></a></li>
+         <li><a href='https://rr.reuser.biz/index.html'><strong>Reuser - OSINT Resource Discovery Toolkit</strong></a></li>
+         <li><a href='https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/'><strong>2021 SANS OSINT Summit</strong></a></li>
+         <li><a href='https://securitytrails.com/blog/top-osint-web-browser-extensions'><strong>Top 15 OSINT Browser Extensions</strong></a></li>
+         <li><a href='https://thecyberpost.com/open-source-intelligence-osint-tools/'><strong>Cyber Post OSINT Tools</strong></a></li>
+         <li><a href='https://wizardsourcer.com/Tools/'><strong>Wizard Sourcer</strong></a></li>
        </ul>
       
    </div>
    
-   <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Github link to download!</p>
+   <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Access a downloadable version of the full results <a href="https://github.com/MetaOSINT/MetaOSINT.github.io/blob/main/Full%20Results%20Table.csv">here</a>.</p>
       
   </body>
 
@@ -4894,13 +4914,14 @@ permalink: /table/
 |Workflow / Productivity Tools|VMs & Browsers|4K Video Downloader|<a href='https://www.4kdownload.comClipConverter.cc'>https://www.4kdownload.comClipConverter.cc</a>|1|
 
 
-<div id="observablehq-chart-87f43f84"></div>
-<p>Credit: <a href="https://observablehq.com/@metaosint/metaosint">MetaOSINT by metaosint</a></p>
+<p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
+<br><a href="https://twitter.com/IntelScott">Don't @ me</a> (Just kidding, please feel free. MO improvement suggestions and feedback are also welcome!)
+<br>Not into Twitter? I hear you. Get in touch <a href="mailto:MetaOSINT@protonmail.com">another way</a>.</p>
 
   <body style="margin-right:95px;margin-left:95px">
 
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_right" width="410" height="182" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_left.PNG" alt="MetaOSINT_header_left" width="387" height="173" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="left">
 
-  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="556" height="175" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
-
+  <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="530" height="167" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
+   
     </body>
