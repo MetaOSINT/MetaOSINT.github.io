@@ -80,7 +80,7 @@ title: Top OSINT Resources Visualization
       
   </body>
 
-<p><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
+<p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
 <br><a href="https://twitter.com/IntelScott">Don't @ me</a> (Just kidding, please feel free. MO improvement suggestions and feedback are also welcome!)
 <br>Not into Twitter? I hear you. Get in touch <a href="mailto:MetaOSINT@protonmail.com">another way</a>.</p>
 
