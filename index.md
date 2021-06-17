@@ -8,7 +8,7 @@ title: Top OSINT Resources Visualization
       text-align: center;  
     }
     .container2{  
-      font-size: 16px;
+      font-size: 14px;
       color: #8b786f;
       font-family: 'Roboto', sans-serif;
     }
@@ -59,9 +59,9 @@ title: Top OSINT Resources Visualization
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO enables open-source intelligence ("OSINT") practitioners to quickly identify relevant, publicly-available tools and resources, saving valuable time during investigations, research, and analysis.</p>
     
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO evaluated a staggering <strong>17,000 source links</strong> that appeared in a continually growing catalog of "OSINT tool & resource lists" shared throughout the OSINT community. For the first time, MO measured the overlap among these lists, in an effort to highlight the "top" resources, based on number of shared citations. In total, more than <strong>11,000 unique OSINT tools & resources were identified</strong> on <a href="https://metaosint.github.io/table/">nearly 30 evaluated lists</a> alone. The MO website specifically provides the <strong>4,817 resources</strong> cited multiple times across these lists.</p>
+    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO evaluated a staggering <strong>17,000 source links</strong> that appeared in a continually growing catalog of "OSINT tool & resource lists" shared throughout the OSINT community. For the first time, MO measured the overlap among these lists, in an effort to highlight the "top" resources, based on number of shared citations. In total, more than <strong>11,000 unique OSINT tools & resources were identified</strong> on <a href="https://metaosint.github.io/table/">nearly 30 evaluated lists</a> alone. The MO website specifically provides the <strong>4,810 resources</strong> cited multiple times across these lists.</p>
     
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Despite some efforts to automate OSINT research (for example, see the Workflow / Productivity Tools > Programming / Automation bubbles below), open-source investigations (especially person searches) remain a manual effort. This is where MO can help. MO is expected to have two primary uses:</p>
+    <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif">Despite some efforts to automate OSINT research (for example, see the Workflow / Productivity Tools > Programming / Automation bubbles below), open-source investigations (especially person searches) remain a manual effort. This is where MO helps. MO is expected to have two primary uses:</p>
        
    <div class="container2">
 
@@ -73,11 +73,11 @@ title: Top OSINT Resources Visualization
       
    </div>
     
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">MO was conceived by an OSINT practitioner, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's charity of choice!</p>
+    <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><strong>Navigating MO:</strong> It's pretty simple - follow the legend's instructions to zoom in and out of the MO bubble chart below, and - if you choose to - navigate directly to specific tools & resources. <strong>Practice safe OSINT!</strong> The lowest-level bubbles contain live resource links and should be clicked with discretion. (Pro Tip: use the Privacy / Operational Security bubble below for resources on the topic!)</p>
    
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Using MO:</strong> Description...desription...</p>
-    <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Practice safe OSINT!</strong> (Hint: use the Privacy / Operational Security bubble below for resources on the topic.)</strong></p>
-    <p style="color:#8b786f;font-size:18px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT? No problem!</strong></p>
+    <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this tool, please consider a small donation to MO's favority charity.</p>
+   
+    <p style="color:#8b786f;font-size:14px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT? No problem!</strong></p>
 
    <script type="module">
    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
