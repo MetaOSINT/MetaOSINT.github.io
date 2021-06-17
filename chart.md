@@ -70,7 +70,9 @@ permalink: /chart/
    
   </body>
 
-<p style="color:#8b786f;font-size:10px;font-family: 'Roboto', sans-serif"><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
+<div id="observablehq-chart-96fbc5e5"></div>
+
+<p style="color:#8b786f;font-size:13px;font-family: 'Roboto', sans-serif"><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
 <br><a href="https://twitter.com/IntelScott">Don't @ me</a> (Just kidding, please feel free. MO improvement suggestions and feedback are also welcome!)
 <br>Not into Twitter? I hear you. Get in touch <a href="mailto:MetaOSINT@protonmail.com">another way</a>.</p>
 
