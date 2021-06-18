@@ -102,7 +102,7 @@ permalink: /table/
       
   </body>
 
-  |Cateogry|Sub-Category|Name|URL|Citations in Sub-Category|
+  |Category|Sub-Category|Name|URL|Citations in Sub-Category|
 |:---|:---|:---|:---|:---:|
 |Academic Resources|"Grey Literature"|Google Scholar|<a href='https://scholar.google.com'>https://scholar.google.com</a>|5|
 |Academic Resources|"Grey Literature"|Academia|<a href='https://www.academia.edu/'>https://www.academia.edu/</a>|5|
