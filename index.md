@@ -55,6 +55,9 @@ title: Top OSINT Resources Visualization
        
     </div>
 
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Star</a>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Fork</a>
+
     <p style="color:#8b786f;font-size:22px;text-align:center;font-family: 'Roboto', sans-serif"><strong>Mo' OSINT, Mo' Problems?</strong>
     <br>MetaOSINT ("MO") is here to help.</p>
 
@@ -78,6 +81,7 @@ title: Top OSINT Resources Visualization
        
     <p style="color:#8b786f;font-size:16px;font-family: 'Roboto', sans-serif;font-style:italic">MO was conceived by a former OSINT investigator, but entered existence simply as an excuse to practice coding during the COVID-19 pandemic. If you benefited from this project, please consider a small contribution to MO's <a href="https://us.movember.com/mospace/14534080">favorite charity</a>.</p>
       
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
   </body>
 
 <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
