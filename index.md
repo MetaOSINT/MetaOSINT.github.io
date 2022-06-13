@@ -57,6 +57,7 @@ title: Top OSINT Resources Visualization
 
     <div class="container">  
 
+    <br>
     <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Star</a>
     <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Fork</a>
 
