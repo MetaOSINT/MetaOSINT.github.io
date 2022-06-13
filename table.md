@@ -56,6 +56,14 @@ permalink: /table/
        
     </div>
 
+   <div class="container">  
+
+    <br>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Star</a>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Fork</a>
+
+    </div>
+   
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">The full list of 4,000+ resources and their associated citation counts, which contribute to the <a href="https://metaosint.github.io/chart/">interactive MO chart</a>, are provided below. More background details about this dataset can be found in the <a href="https://metaosint.github.io/faq/">FAQ</a>. Due to the list's length, we recommend using keyboard search shortcuts (Ctrl + F or Command + F on Mac) to navigate to categories or resources that you are intentionally searching for.</p>
      
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Sources List</strong>
@@ -4926,4 +4934,6 @@ permalink: /table/
 
   <img src="https://raw.githubusercontent.com/MetaOSINT/MetaOSINT.github.io/main/header_right.PNG" alt="MetaOSINT_header_right" width="530" height="167" style="border:5px solid #ece4d8;box-shadow: 0px 4px 0px #ece4d8" align="right">
    
+     <script async defer src="https://buttons.github.io/buttons.js"></script>
+
     </body>
