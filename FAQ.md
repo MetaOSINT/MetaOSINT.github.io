@@ -56,6 +56,14 @@ permalink: /faq/
        
     </div>
 
+   <div class="container">  
+
+    <br>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Star</a>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Fork</a>
+
+    </div>
+   
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>What are the best ways to use MO?</strong></p>
     
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">Depends on your goals. If you are unfamiliar with any resources in a certain category, it's best to begin with the <a href="https://metaosint.github.io/chart/">interactive chart</a>, to see if a small cluster of resources have been cited most often. From there, you may find it easiest to navigate within the <a href="https://metaosint.github.io/table/">results table</a> to inspect the less-cited sources (the smallest bubbles). Searching for a specific tool or type of resource? It may be best to start with the table and use keyboard search shortcuts (Ctrl + F or Command + F on Mac) for navigation. A few common example scenarios include:</p>
@@ -103,6 +111,9 @@ permalink: /faq/
 
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif">I'm good, but thanks! Glad you found MO useful - instead, we're very grateful if you consider 'paying it forward', perhaps with a small contribution to MO's <a href="https://us.movember.com/mospace/14534080">favorite charity</a>.</p>
 
+     <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+   
   </body>
 
 <p style="color:#8b786f;font-size:14px;font-family: 'Roboto', sans-serif"><br><br><a href="https://github.com/MetaOSINT/MetaOSINT.github.io">Inspect MO's inelegant site code</a>
