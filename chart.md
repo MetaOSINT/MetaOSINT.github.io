@@ -56,6 +56,14 @@ permalink: /chart/
        
     </div>
 
+   <div class="container">  
+
+    <br>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Star</a>
+    <a class="github-button" href="https://github.com/MetaOSINT/MetaOSINT.github.io/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork MetaOSINT/MetaOSINT.github.io on GitHub" style="text-align:center">Fork</a>
+
+    </div>
+   
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><br>Consider bookmarking this page to return directly to the chart next time.</p>
         
     <p style="color:#8b786f;font-size:18px;font-family: 'Roboto', sans-serif"><strong>Navigating MO:</strong> It's pretty simple - follow the guidance at the top of the bubble chart below to zoom in and out, and - if you choose to - navigate directly to specific tools & resources. <strong>Practice safe OSINT!</strong> The lowest-level bubble labels contain live resource links and should be clicked with discretion. (Pro Tip: Inspect the Privacy / Operational Security bubble for resources on the topic!)</p>
@@ -70,6 +78,9 @@ permalink: /chart/
      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-96fbc5e5"));
    });
    </script>
+   
+     <script async defer src="https://buttons.github.io/buttons.js"></script>
+
    
   </body>
 
