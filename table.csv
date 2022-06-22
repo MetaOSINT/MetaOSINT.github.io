@@ -3648,7 +3648,7 @@ Web / Technical / Threat Intelligence,Network / ASN / Servers / Packets,IPv4 CID
 Web / Technical / Threat Intelligence,Network / ASN / Servers / Packets,censys,https://censys.io/,MetaOSINT,1
 Web / Technical / Threat Intelligence,Network / ASN / Servers / Packets,BGP Tools,http://www.bgp4.as/tools,MetaOSINT,1
 Web / Technical / Threat Intelligence,OSINT,OSINT ME,https://www.osintme.com,Social Share,N/A
-Web / Technical / Threat Intelligence,OSINT,bellingcat the home of online investigations,https://www.bellingcat.com/,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://www.bellingcat.com/,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,UK-OSINT,https://www.uk-osint.net,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,OSINT Jobs & Careers,https://www.osint-jobs.com,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,My OSINT Training Home Page,https://www.myosint.training,Social Share,N/A
@@ -3669,7 +3669,7 @@ Web / Technical / Threat Intelligence,OSINT,OSINTGURU,https://www.osintguru.com,
 Web / Technical / Threat Intelligence,OSINT,OSINT.SH,https://osint.sh,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,OSINT Games,https://osint.games,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,Lampyre: Data analysis & OSINT tool for ever,http://Lampyre.io,Social Share,N/A
-Web / Technical / Threat Intelligence,OSINT,Sofia Santos | OSINT & GEOINT Analysis â€“ O,https://gralhix.wordpress.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,Sofia Santos | OSINT & GEOINT Analysis,https://gralhix.wordpress.com,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,"OSINT, OPSEC, Privacy & Hostile Profiling â€",https://www.cqcore.uk,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,OSINT Training Center - Aware Online,https://www.aware-online.com,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,300m,https://300m.com/osint/,Manual,N/A
@@ -5085,8 +5085,8 @@ Workflow / Productivity Tools,,dlvr.it,https://dlvrit.com/,Social Share,N/A
 ,,Ð¡Ð°Ð¼Ñ‹Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸,http://novostey.com,Social Share,N/A
 ,,Ð¡Ð²ÑÑ‚Ð¾-Ð£ÑÐ¿ÐµÐ½ÑÐºÐ°Ñ Ð¡Ð²ÑÑ‚Ð¾Ð³Ð¾,https://svlavra.church.ua,Social Share,N/A
 ,,Ð’ÑÐµ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¥Ð°Ð±Ñ€Ð°Ñ…Ð°Ð±,https://itnan.ru,Social Share,N/A
-,,Ð“Ð»Ð°Ð²Ð½Ð°Ñ - Ð‘ÐµÐ»Ð»Ð¸Ð½Ð³ÐºÑÑ‚,https://ru.bellingcat.com,Social Share,N/A
-,,Ð“Ð¾Ð»Ð¾Ð²Ð½Ð° ÑÑ‚Ð¾Ñ€Ñ–Ð½ÐºÐ° - Ð‘ÐµÐ»Ð»Ñ–,https://uk.bellingcat.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://ru.bellingcat.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com,Social Share,N/A
 ,,Ð¢Ð°Ñ€Ð¸Ñ„Ð¸,http://Kyivstar.ua,Social Share,N/A
 ,,Ð†ÑÑ‚Ð¾Ñ€Ð¸Ñ‡Ð½Ð° Ð¿Ñ€Ð°Ð²Ð´Ð°,https://www.istpravda.com.ua,Social Share,N/A
 ,,Ð•ÑÐ¿Ñ€ÐµÑÐ¾,https://espreso.tv,Social Share,N/A
@@ -5715,3 +5715,5 @@ Workflow / Productivity Tools,,dlvr.it,https://dlvrit.com/,Social Share,N/A
 ,,,http://1920.in,Social Share,N/A
 ,,,https://www.tiktok.com,Social Share,N/A
 ,,,http://1.loan,Social Share,N/A
+Geopolitics,Governments & Politics,Politzek.me Database of Political Prisoners in Belarus,https://www.politzek.me/en/friends,Manual,N/A
+Geopolitics,Governments & Politics,Viasna List of political prisoners in Belarus,https://prisoners.spring96.org/en#list,Manual,N/A
