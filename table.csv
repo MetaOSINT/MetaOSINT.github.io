@@ -386,11 +386,9 @@ E-Commerce & Cryptocurrency,Classifieds,Goofbid,https://www.goofbid.com,MetaOSIN
 E-Commerce & Cryptocurrency,Classifieds,FatFingers (Ebay Misspellings),http://www.fatfingers.com/default.aspx,MetaOSINT,1
 E-Commerce & Cryptocurrency,Classifieds,Claz.org,http://claz.org,MetaOSINT,1
 E-Commerce & Cryptocurrency,Classifieds,Amazon,http://www.amazon.com/,MetaOSINT,1
-E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Matbea,https://matbea.net/,MetaOSINT,2
-E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.info,https://blockchain.info/,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Wallet Explorer,https://www.walletexplorer.com/,MetaOSINT,8
-E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitcoinwhoswho,http://bitcoinwhoswho.com,MetaOSINT,7
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.info,https://blockchain.info/,MetaOSINT,8
+E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitcoinwhoswho,http://bitcoinwhoswho.com,MetaOSINT,7
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",EtherScan,https://etherscan.io/,MetaOSINT,5
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockonomics,https://www.blockonomics.co,MetaOSINT,4
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Block Explorer,https://blockexplorer.com,MetaOSINT,4
@@ -400,6 +398,8 @@ E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigati
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Block Chair,https://blockchair.com/,MetaOSINT,3
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.com,https://www.blockchain.com,MetaOSINT,3
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitref,https://bitref.com/,MetaOSINT,3
+E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Matbea,https://matbea.net/,MetaOSINT,2
+E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.info,https://blockchain.info/,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Elliptic,https://www.elliptic.co,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Chain Radar,https://chainradar.com,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitcoin.org,https://bitcoin.org/en/choose-your-wallet,MetaOSINT,2
@@ -736,6 +736,7 @@ Geopolitics,Conflict & Military,Federation of American Scientists,http://fas.org
 Geopolitics,Conflict & Military,DTIC Online,http://www.dtic.mil/dtic/search/,MetaOSINT,1
 Geopolitics,Conflict & Military,BRB Publications,https://www.brbpublications.com,MetaOSINT,1
 Geopolitics,Conflict & Military,Black Book Online,https://www.blackbookonline.info,MetaOSINT,1
+Geopolitics,Conflict & Military,OSINT Ukraine,http://OSINTukraine.com,Social Share,N/A
 Geopolitics,Corruption,Transparency International,https://www.transparency.org,MetaOSINT,2
 Geopolitics,Country Information / Data / Statistics,deutschland.de,http://deutschland.de/,MetaOSINT,2
 Geopolitics,Country Information / Data / Statistics,BBC News Country Profile,http://news.bbc.co.uk/2/hi/country_profiles/default.stm,MetaOSINT,2
@@ -795,6 +796,8 @@ Geopolitics,Governments & Politics,Nationmaster.com Data.World,http://www.nation
 Geopolitics,Governments & Politics,EUROSTAT,http://epp.eurostat.ec.europa.eu/,MetaOSINT,1
 Geopolitics,Governments & Politics,WikipediA,http://en.wikipedia.org/wiki/Main_Page,MetaOSINT,1
 Geopolitics,Governments & Politics,DMOZ,http://www.dmoz.org/,MetaOSINT,1
+Geopolitics,Governments & Politics,Politzek.me Database of Political Prisoners in Belarus,https://www.politzek.me/en/friends,Manual,N/A
+Geopolitics,Governments & Politics,Viasna List of political prisoners in Belarus,https://prisoners.spring96.org/en#list,Manual,N/A
 Geopolitics,Health & Disasters,PubMed,http://www.ncbi.nlm.nih.gov/sites/entrez,MetaOSINT,2
 Geopolitics,Health & Disasters,Centers for Disease Control and Prevention,http://www.cdc.gov,MetaOSINT,2
 Geopolitics,Health & Disasters,World Health Organization,http://www.who.int,MetaOSINT,2
@@ -2099,24 +2102,25 @@ News & News Verification,News Sources,AIDR,http://aidr.qcri.org,MetaOSINT,1
 News & News Verification,News Sources,NPR,https://www.npr.org,Social Share,N/A
 News & News Verification,News Sources,The Financial Times,https://www.ft.com,Social Share,N/A
 News & News Verification,News Sources,WIRED,https://www.wired.com,Social Share,N/A
+News & News Verification,News Sources,HealthcareInfoSecurity,https://www.healthcareinfosecurity.com/,Manual,N/A
 News & News Verification,News Verification / Disinformation,Snopes,https://www.snopes.com/,MetaOSINT,9
+News & News Verification,News Verification / Disinformation,Fact Check,http://www.factcheck.org,MetaOSINT,8
 News & News Verification,News Verification / Disinformation,Verification Handbook,http://verificationhandbook.com/,MetaOSINT,6
 News & News Verification,News Verification / Disinformation,Wikipedia,http://en.wikipedia.org/wiki/Main_Page,MetaOSINT,5
 News & News Verification,News Verification / Disinformation,Verification junkie,http://verificationjunkie.com/,MetaOSINT,5
 News & News Verification,News Verification / Disinformation,MediaBugs,http://mediabugs.org,MetaOSINT,5
+News & News Verification,News Verification / Disinformation,Politifact,http://www.politifact.com/,MetaOSINT,5
 News & News Verification,News Verification / Disinformation,Hoaxy,https://hoaxy.iuni.iu.edu/,MetaOSINT,4
-News & News Verification,News Verification / Disinformation,Fact Check,http://www.factcheck.org,MetaOSINT,4
 News & News Verification,News Verification / Disinformation,Citizen Desk,https://www.sourcefabric.org/en/citizendesk,MetaOSINT,3
+News & News Verification,News Verification / Disinformation,Meedan Check,https://meedan.com/check,MetaOSINT,3
 News & News Verification,News Verification / Disinformation,Reporter Lab,https://reporterslab.org/fact-checking,MetaOSINT,3
-News & News Verification,News Verification / Disinformation,Politifact,http://www.politifact.com/,MetaOSINT,3
 News & News Verification,News Verification / Disinformation,Emergent,http://www.emergent.info,MetaOSINT,3
-News & News Verification,News Verification / Disinformation,Politifact,http://www.politifact.com/,MetaOSINT,2
 News & News Verification,News Verification / Disinformation,Truth Or Fiction,http://www.truthorfiction.com/,MetaOSINT,2
 News & News Verification,News Verification / Disinformation,SEO Plagiarism,https://smallseotools.com/plagiarism-checker,MetaOSINT,2
-News & News Verification,News Verification / Disinformation,Checkdesk,https://meedan.com/en/checkdesk,MetaOSINT,2
 News & News Verification,News Verification / Disinformation,Fake Spot,https://www.fakespot.com/,MetaOSINT,2
 News & News Verification,News Verification / Disinformation,SciCheck,http://www.factcheck.org/scicheck/,MetaOSINT,2
-News & News Verification,News Verification / Disinformation,FactCheck,https://www.factcheck.org/fake-news,MetaOSINT,2
+News & News Verification,News Verification / Disinformation,"FactCheck - 
+Debunking False Stories",https://www.factcheck.org/fake-news,MetaOSINT,2
 News & News Verification,News Verification / Disinformation,citizen evidence,https://citizenevidence.org/,MetaOSINT,2
 News & News Verification,News Verification / Disinformation,ReviewMeta,https://reviewmeta.com/,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Reveal Image Verification Assistant,http://reveal-mklab.iti.gr/reveal/index.html,MetaOSINT,1
@@ -2125,13 +2129,13 @@ News & News Verification,News Verification / Disinformation,Full Fact,https://fu
 News & News Verification,News Verification / Disinformation,YouTube Metadata,http://www.amnestyusa.org/citizenevidence/,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,AfricaCheck,https://africacheck.org,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,StopFake,http://www.stopfake.org/en/news,MetaOSINT,1
-News & News Verification,News Verification / Disinformation,Check,https://meedan.com/check,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Botometer,https://botometer.osome.iu.edu/,MetaOSINT,1
 News & News Verification,News Verification / Disinformation,Grammarly,https://www.grammarly.com/,Manual,N/A
 News & News Verification,News Verification / Disinformation,Plagiarisma,http://plagiarisma.net/,Manual,N/A
 News & News Verification,News Verification / Disinformation,Paper Rater,https://www.paperrater.com/,Manual,N/A
 News & News Verification,News Verification / Disinformation,Copyleaks,https://copyleaks.com/,Manual,N/A
 News & News Verification,News Verification / Disinformation,PlagScan,https://www.plagscan.com/en/,Manual,N/A
+News & News Verification,News Verification / Disinformation,Russian Disinformation Dashboard - Cognitive,https://ruprop.live,Social Share,N/A
 News & News Verification,News/Newspaper Search Engines,The paperboy,https://www.thepaperboy.com/index.cfm,MetaOSINT,2
 News & News Verification,News/Newspaper Search Engines,Findmypast,https://search.findmypast.com/search/us-and-world-newspapers,MetaOSINT,2
 News & News Verification,News/Newspaper Search Engines,Newspapers Search,https://newspapers.com/search/,MetaOSINT,2
@@ -2641,13 +2645,13 @@ Social Media,Facebook,Facebook,https://www.facebook.com/,MetaOSINT,10
 Social Media,Facebook,SearchIsBack,https://searchisback.com,MetaOSINT,7
 Social Media,Facebook,Who posted what?,https://whopostedwhat.com/,MetaOSINT,6
 Social Media,Facebook,Graph Tips FB Search,http://graph.tips/beta/,MetaOSINT,6
+Social Media,Facebook,Find my Facebook ID,http://randomtools.io/,MetaOSINT,6
 Social Media,Facebook,Facebook Search Tool,http://netbootcamp.org/facebook.html,MetaOSINT,5
 Social Media,Facebook,People Search,http://netbootcamp.org/peoplesearch.html People Search (Australia),MetaOSINT,4
 Social Media,Facebook,Sowdust FB search,https://sowdust.github.io/fb-search/,MetaOSINT,4
 Social Media,Facebook,SocialBakers,http://www.socialbakers.com,MetaOSINT,4
 Social Media,Facebook,Facebook,https://netbootcamp.org/facebook.html?9d7bd4&9d7bd4,MetaOSINT,4
 Social Media,Facebook,Hashatit.com,http://www.hashatit.com/,MetaOSINT,4
-Social Media,Facebook,Find my Facebook ID,http://randomtools.io/,MetaOSINT,4
 Social Media,Facebook,Facebook Recover Lookup (ID Profile),https://www.facebook.com/login/identify?ctx=recover,MetaOSINT,4
 Social Media,Facebook,Facebook Directory (Users by Name),https://www.facebook.com/directory/people/,MetaOSINT,4
 Social Media,Facebook,Facebook Graph (Identifies Account Info),https://graph.facebook.com/100001953097506,MetaOSINT,3
@@ -2681,7 +2685,6 @@ Social Media,Facebook,twint,http://github.com/twintproject/twint,MetaOSINT,2
 Social Media,Facebook,Social-alerts,https://github.com/mamoedo/social-alerts,MetaOSINT,2
 Social Media,Facebook,Scylla,https://github.com/josh0xA/Scylla SearchYellowDirectory,MetaOSINT,2
 Social Media,Facebook,fabledowl,https://gist.github.com/fabledowl,MetaOSINT,2
-Social Media,Facebook,Find my Facebook ID,http://randomtools.io/,MetaOSINT,2
 Social Media,Facebook,FaceLIVE,https://www.facelive.org/,MetaOSINT,2
 Social Media,Facebook,Facebook Photo Tracker (Backlink Photo to Pr,https://www.facebook.com/photo.php?fbid=PHOTO-ID-HERE,MetaOSINT,2
 Social Media,Facebook,Facebook Live Map,https://facebook.com/livemap,MetaOSINT,2
@@ -3507,9 +3510,9 @@ Web / Technical / Threat Intelligence,Emulation,GenyMotion,https://www.genymotio
 Web / Technical / Threat Intelligence,Emulation,BlueStacks,https://www.bluestacks.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,Emulation,NoxPlayer,https://www.bignox.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,Emulation,Andyroid,https://www.andyroid.net,MetaOSINT,1
-Web / Technical / Threat Intelligence,Encryption / Decryption,Veracrypt,https://www.veracrypt.fr/en/Downloads.html,MetaOSINT,2
 Web / Technical / Threat Intelligence,Encryption / Decryption,CyberChef,https://gchq.github.io/CyberChef/,MetaOSINT,3
 Web / Technical / Threat Intelligence,Encryption / Decryption,BGP HE,https://bgp.he.net,MetaOSINT,3
+Web / Technical / Threat Intelligence,Encryption / Decryption,Veracrypt,https://www.veracrypt.fr/en/Downloads.html,MetaOSINT,2
 Web / Technical / Threat Intelligence,Encryption / Decryption,Kahu Revelo,http://www.kahusecurity.com/tools/,MetaOSINT,1
 Web / Technical / Threat Intelligence,Encryption / Decryption,Peeringdb.com,https://www.peeringdb.com/,MetaOSINT,1
 Web / Technical / Threat Intelligence,Encryption / Decryption,PDF Tools,http://blog.didierstevens.com/programs/pdf-tools/,MetaOSINT,1
@@ -3700,6 +3703,8 @@ Web / Technical / Threat Intelligence,OSINT,2021 SANS OSINT Summit,https://www.s
 Web / Technical / Threat Intelligence,OSINT,Top 15 OSINT Browser Extensions,https://securitytrails.com/blog/top-osint-web-browser-extensions,Manual,N/A
 Web / Technical / Threat Intelligence,OSINT,Cyber Post OSINT Tools,https://thecyberpost.com/open-source-intelligence-osint-tools/,Manual,N/A
 Web / Technical / Threat Intelligence,OSINT,Wizard Sourcer,https://wizardsourcer.com/Tools/,Manual,N/A
+Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://ru.bellingcat.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com,Social Share,N/A
 Web / Technical / Threat Intelligence,Paste Sites,PasteLert,http://andrewmohawk.com/pasteLert/,MetaOSINT,6
 Web / Technical / Threat Intelligence,Paste Sites,Pastebin,https://pastebin.com/,MetaOSINT,4
 Web / Technical / Threat Intelligence,Paste Sites,Just Paste It,https://justpaste.it/,MetaOSINT,3
@@ -4240,8 +4245,8 @@ Web Search Engines,General Search & Uncategorized,John Battelle's Blog,http://ba
 Web Search Engines,Keyword Discovery / SEO,KeywordTool,https://keywordtool.io/,MetaOSINT,10
 Web Search Engines,Keyword Discovery / SEO,One Look Reverse Dictionary,http://www.onelook.com/reverse-dictionary.shtml,MetaOSINT,5
 Web Search Engines,Keyword Discovery / SEO,Google Trends,https://www.google.com/trends,MetaOSINT,5
-Web Search Engines,Keyword Discovery / SEO,Word Tracker,https://www.wordtracker.com,MetaOSINT,3
 Web Search Engines,Keyword Discovery / SEO,Ubersuggest,http://ubersuggest.org,MetaOSINT,5
+Web Search Engines,Keyword Discovery / SEO,Word Tracker,https://www.wordtracker.com,MetaOSINT,3
 Web Search Engines,Keyword Discovery / SEO,Soovle,http://www.soovle.com,MetaOSINT,3
 Web Search Engines,Keyword Discovery / SEO,Keyword Spy,http://keywordspy.com,MetaOSINT,3
 Web Search Engines,Keyword Discovery / SEO,Keyword discover,https://www.keyworddiscovery.com/,MetaOSINT,3
@@ -5085,8 +5090,6 @@ Workflow / Productivity Tools,,dlvr.it,https://dlvrit.com/,Social Share,N/A
 ,,Ð¡Ð°Ð¼Ñ‹Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ Ð½Ð¾Ð²Ð¾ÑÑ‚Ð¸,http://novostey.com,Social Share,N/A
 ,,Ð¡Ð²ÑÑ‚Ð¾-Ð£ÑÐ¿ÐµÐ½ÑÐºÐ°Ñ Ð¡Ð²ÑÑ‚Ð¾Ð³Ð¾,https://svlavra.church.ua,Social Share,N/A
 ,,Ð’ÑÐµ Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°Ñ†Ð¸Ð¸ Ð¥Ð°Ð±Ñ€Ð°Ñ…Ð°Ð±,https://itnan.ru,Social Share,N/A
-Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://ru.bellingcat.com,Social Share,N/A
-Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com,Social Share,N/A
 ,,Ð¢Ð°Ñ€Ð¸Ñ„Ð¸,http://Kyivstar.ua,Social Share,N/A
 ,,Ð†ÑÑ‚Ð¾Ñ€Ð¸Ñ‡Ð½Ð° Ð¿Ñ€Ð°Ð²Ð´Ð°,https://www.istpravda.com.ua,Social Share,N/A
 ,,Ð•ÑÐ¿Ñ€ÐµÑÐ¾,https://espreso.tv,Social Share,N/A
@@ -5406,7 +5409,6 @@ Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com
 ,,RTL Nieuws,https://www.rtlnieuws.nl,Social Share,N/A
 ,,Rumble,https://rumble.com,Social Share,N/A
 ,,"Russia Ukraine war news latest, Ukrainian ne",https://empr.media,Social Share,N/A
-,,Russian Disinformation Dashboard - Cognitive,https://ruprop.live,Social Share,N/A
 ,,Rytr - Best AI Writer,https://rytr.me?via=twitter,Social Share,N/A
 ,,Sarawak News - Sarawak News,https://sarawaknews.net,Social Share,N/A
 ,,ScamAlert - Bringing you the latest scam inf,http://scamalert.sg,Social Share,N/A
@@ -5638,7 +5640,6 @@ Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com
 ,,,https://pbs.twimg.com,Social Share,N/A
 ,,,http://Pakistan.so,Social Share,N/A
 ,,,https://packetstormsecurity.com,Social Share,N/A
-,,,http://OSINTukraine.com,Social Share,N/A
 ,,,https://osint.link,Social Share,N/A
 ,,,https://on.ft.com,Social Share,N/A
 ,,,https://www.ohchr.org,Social Share,N/A
@@ -5715,5 +5716,3 @@ Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com
 ,,,http://1920.in,Social Share,N/A
 ,,,https://www.tiktok.com,Social Share,N/A
 ,,,http://1.loan,Social Share,N/A
-Geopolitics,Governments & Politics,Politzek.me Database of Political Prisoners in Belarus,https://www.politzek.me/en/friends,Manual,N/A
-Geopolitics,Governments & Politics,Viasna List of political prisoners in Belarus,https://prisoners.spring96.org/en#list,Manual,N/A
