@@ -1,4 +1,4 @@
-Cateogry,Sub-Category,Name,URL,Source,Citations in Category
+Category,Sub-Category,Name,URL,Source,Citations in Category
 Academic Resources,"""Grey Literature""",Google Scholar,https://scholar.google.com,MetaOSINT,7
 Academic Resources,"""Grey Literature""",Academia,https://www.academia.edu/,MetaOSINT,5
 Academic Resources,"""Grey Literature""",ScienceDirect,https://www.sciencedirect.com/,MetaOSINT,4
@@ -737,6 +737,9 @@ Geopolitics,Conflict & Military,DTIC Online,http://www.dtic.mil/dtic/search/,Met
 Geopolitics,Conflict & Military,BRB Publications,https://www.brbpublications.com,MetaOSINT,1
 Geopolitics,Conflict & Military,Black Book Online,https://www.blackbookonline.info,MetaOSINT,1
 Geopolitics,Conflict & Military,OSINT Ukraine,http://OSINTukraine.com,Social Share,N/A
+Geopolitics,Conflict & Military,H I Sutton - Covert Shores,http://hisutton.com,Social Share,N/A
+Geopolitics,Conflict & Military,ADS-B.NL Tracking Military Aircraft,http://ads-b.nl,Social Share,N/A
+Geopolitics,Conflict & Military,Assuntos Militares,http://assuntosmilitares.jor.br,Social Share,N/A
 Geopolitics,Corruption,Transparency International,https://www.transparency.org,MetaOSINT,2
 Geopolitics,Country Information / Data / Statistics,deutschland.de,http://deutschland.de/,MetaOSINT,2
 Geopolitics,Country Information / Data / Statistics,BBC News Country Profile,http://news.bbc.co.uk/2/hi/country_profiles/default.stm,MetaOSINT,2
@@ -1388,6 +1391,7 @@ Identity / Person Search,Username,NameScan,https://namescan.io,MetaOSINT,1
 Identity / Person Search,Username,Icq,https://icq.com,MetaOSINT,1
 Identity / Person Search,Username,Full Contact,https://www.fullcontact.com,MetaOSINT,1
 Identity / Person Search,Username,Amazon,http://www.amazon.com/,MetaOSINT,1
+Identity / Person Search,Username,Blackbird,https://github.com/p1ngul1n0/blackbird,Social Share,N/A
 Identity / Person Search,Vehicle Information,Vehicle Documents,http://www.vehicle-documents.it,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Audio,Pocket,https://www.getpocket.com,MetaOSINT,4
 Images / Video / Audio / File Metadata Search,Audio,Broadcastify,http://www.broadcastify.com/,MetaOSINT,3
@@ -1694,7 +1698,6 @@ Images / Video / Audio / File Metadata Search,Images,Swisscows,https://swisscows
 Images / Video / Audio / File Metadata Search,Images,Suncalc,https://www.suncalc.org,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,SunCalc,http://suncalc.net,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Statigr.am,http://statigr.am/,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,Source Forge,https://sourceforge.net,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Reveal Image Verification Assistant,http://reveal-mklab.iti.gr/reveal/index.html,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Fake Image Detector,https://play.google.com/store/apps/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Sensity,https://platform.sensity.ai/deepfake-detection,MetaOSINT,1
@@ -1729,13 +1732,10 @@ Images / Video / Audio / File Metadata Search,Images,Search by Image (Google),ht
 Images / Video / Audio / File Metadata Search,Images,Bearpanther.com,http://bearpanther.com/instamap/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Teachingprivacy.com,http://app.teachingprivacy.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,YouTube Metadata,http://www.amnestyusa.org/citizenevidence/,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,YouTube,https://www.youtube.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Yahoo,https://www.yahoo.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,XnResize,https://www.xnview.com/en/xnresize,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,Websta,http://websta.me,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Verexif,http://www.verexif.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Tumblr,https://www.tumblr.com,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,TinEye,https://tineye.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Startpage,https://www.startpage.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Southern Poverty Law Center - Hate Map,http://www.splcenter.org/get-informed/hate-map,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,SmallSEOTools,http://smallseotools.com,MetaOSINT,1
@@ -1746,16 +1746,12 @@ Images / Video / Audio / File Metadata Search,Images,NerdyData,https://search.ne
 Images / Video / Audio / File Metadata Search,Images,Lycos Image Search,http://search.lycos.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Jeffrey's EXIF,http://regex.info/exif.cgi,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Pillow,https://pypi.org/project/Pillow,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,Plaghunter,http://www.plaghunter.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,PicTriev,http://www.pictriev.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,MyHeritage,https://www.myheritage.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Photo Scan,https://www.microsoft.com/en-us/p/photo- scan/9nblggh4s87w?activetab=pivot:overviewtab,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,iSolid,https://www.isolid.be,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Internet Marketing Ninjas,https://www.internetmarketingninjas.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Instya,http://www.instya.com,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,Imgur,https://imgur.com/,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,Google,https://images.google.com/,MetaOSINT,1
-Images / Video / Audio / File Metadata Search,Images,Baidu images,https://image.baidu.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Gyazo,https://gyazo.com,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Flickr Hive Mind,http://flickrhivemind.net/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,Facebook,https://www.facebook.com/,MetaOSINT,1
@@ -1765,6 +1761,8 @@ Images / Video / Audio / File Metadata Search,Images,Microsoft Azure,https://azu
 Images / Video / Audio / File Metadata Search,Images,Amazon Rekognition,https://aws.amazon.com/rekognition Betaface,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,adl.org/education-and-resources/resource-kno,https://www.adl.org/education-and-resources/resource-knowledge-base,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,9gag,https://9gag.com/,MetaOSINT,1
+Images / Video / Audio / File Metadata Search,Images,DeepAI Image Similarity API,https://deepai.org/machine-learning-model/image-similarity,Manual,N/A
+Images / Video / Audio / File Metadata Search,Images,Remini AI Photo Enhancer,http://app.remini.ai,Social Share,N/A
 Images / Video / Audio / File Metadata Search,OCR,Free OCR,http://www.free-ocr.com/,MetaOSINT,5
 Images / Video / Audio / File Metadata Search,OCR,Online OCR,http://www.onlineocr.net,MetaOSINT,4
 Images / Video / Audio / File Metadata Search,OCR,New OCR,https://www.newocr.com,MetaOSINT,4
@@ -2632,6 +2630,7 @@ Social Media,Chat & Messaging Apps,Telegram Stats/Search,https://tgstat.ru/,Meta
 Social Media,Chat & Messaging Apps,Home | Lyzem.com,https://lyzem.com/,MetaOSINT,1
 Social Media,Chat & Messaging Apps,Google map NL,http://bit.ly/2vREXsn,MetaOSINT,1
 Social Media,Chat & Messaging Apps,Telegram,https://t.me,Social Share,N/A
+Social Media,Chat & Messaging Apps,Matrix,http://matrix.org/,Social Share,N/A
 Social Media,Classmates.com,Classmates,http://www.classmates.com,MetaOSINT,2
 Social Media,Classmates.com,Classmates,http://www.classmates.com,MetaOSINT,1
 Social Media,Dating,Tinder,https://www.gotinder.com,MetaOSINT,3
@@ -2774,6 +2773,7 @@ Social Media,General & Uncategorized,SocioViz,http://socioviz.net,MetaOSINT,1
 Social Media,General & Uncategorized,SocialBlade.com,http://socialblade.com/,MetaOSINT,1
 Social Media,General & Uncategorized,CrowdTangle | Content Discovery and Social M,https://www.crowdtangle.com/,MetaOSINT,1
 Social Media,General & Uncategorized,Brand24 - Social Media Monitoring Tool,https://brand24.com/,MetaOSINT,1
+Social Media,General & Uncategorized,Blackbird,https://github.com/p1ngul1n0/blackbird,Social Share,N/A
 Social Media,Google Plus,Google+,http://plus.google.com,MetaOSINT,5
 Social Media,Google Plus,PlusFeed,http://plusfeed.frosas.net/,MetaOSINT,2
 Social Media,Google Plus,Google CSE,https://cse.google.com/cse/publicurl?cx=009462381166450434430:cotywcrgpru,MetaOSINT,1
@@ -2802,13 +2802,11 @@ Social Media,Instagram,Gramho,https://gramho.com/,MetaOSINT,2
 Social Media,Instagram,Echosec.net,https://free.echosec.net/,MetaOSINT,2
 Social Media,Instagram,Yomapicp (Photos by Location),http://www.yomapic.com/,MetaOSINT,1
 Social Media,Instagram,Worldcam,http://www.worldc.am,MetaOSINT,1
-Social Media,Instagram,Websta,http://websta.me,MetaOSINT,1
 Social Media,Instagram,Hashatit.com,http://www.hashatit.com/hashtag,MetaOSINT,1
 Social Media,Instagram,InstaLoader,https://github.com/instaloader/instaloader,MetaOSINT,1
 Social Media,Instagram,Creepy,https://github.com/ilektrojohn/creepy,MetaOSINT,1
 Social Media,Instagram,Bearpanther.com,http://bearpanther.com/instamap/,MetaOSINT,1
 Social Media,Instagram,Teachingprivacy.com,http://app.teachingprivacy.com/,MetaOSINT,1
-Social Media,Instagram,Websta,http://websta.me,MetaOSINT,1
 Social Media,Instagram,Facebook Intersect Search Tool,https://www.osintcombine.com/facebook-intersect-search-tool,MetaOSINT,1
 Social Media,LinkedIn,Linkedin,http://www.linkedin.com/,MetaOSINT,6
 Social Media,LinkedIn,Leveraging Street Art in OSINT Investigation,https://www.secjuice.com/street-art-in-osint-investigations/,MetaOSINT,2
@@ -3117,7 +3115,7 @@ Social Media,,Unified Social Media Management Platform - C,https://cstu.io,Socia
 Social Media,,Social Links - Data-driven investigations,https://blog.sociallinks.io,Social Share,N/A
 Transportation,Aviation,Flight Radar 24,http://flightradar24.com,MetaOSINT,9
 Transportation,Aviation,FAA Registry,http://registry.faa.gov/aircraftinquiry/NNum_inquiry.aspx,MetaOSINT,6
-Transportation,Aviation,Radar Box,https://www.radarbox24.com,MetaOSINT,6
+Transportation,Aviation,AirNav RadarBox,https://www.radarbox.com/,MetaOSINT,6
 Transportation,Aviation,Plane Finder,https://planefinder.net/,MetaOSINT,6
 Transportation,Aviation,Live ATC,https://www.liveatc.net,MetaOSINT,6
 Transportation,Aviation,FlightAware,http://flightaware.com/,MetaOSINT,6
@@ -3153,6 +3151,7 @@ Transportation,Aviation,Pilot Web,https://www.pilotweb.aero,MetaOSINT,1
 Transportation,Aviation,IATA International Air Transport Association,http://www.iata.org,MetaOSINT,1
 Transportation,Aviation,VAT Number Validation,http://ec.europa.eu/taxation_customs/vies/?locale=en,MetaOSINT,1
 Transportation,Aviation,Air Cargo Tracking,http://cargotracking.utopiax.org BIC Code,MetaOSINT,1
+Transportation,Aviation,ADS-B.NL Tracking Military Aircraft,http://ads-b.nl,Social Share,N/A
 Transportation,Maritime,Marine Traffic,http://www.marinetraffic.com/,MetaOSINT,11
 Transportation,Maritime,Vessel Finder,https://www.vesselfinder.com,MetaOSINT,9
 Transportation,Maritime,Ship Spotting,http://shipspotting.com,MetaOSINT,5
@@ -3189,6 +3188,7 @@ Transportation,Maritime,Fleetmon,https://www.fleetmon.com,MetaOSINT,1
 Transportation,Maritime,Yahoo listing,http://dir.yahoo.com/Government/International_Organizations/,MetaOSINT,1
 Transportation,Maritime,Crusin,http://www.cruisin.me,MetaOSINT,1
 Transportation,Maritime,Air Cargo Tracking,http://cargotracking.utopiax.org BIC Code,MetaOSINT,1
+Transportation,Maritime,H I Sutton - Covert Shores,http://hisutton.com,Social Share,N/A
 Transportation,Rail,Open Railway Map,http://www.openrailwaymap.org/,MetaOSINT,4
 Transportation,Rail,WikiRoutes,http://wikiroutes.info/,MetaOSINT,2
 Transportation,Rail,DB Open Data Portal,http://data.deutschebahn.com DSB (Denmark),MetaOSINT,2
@@ -3611,6 +3611,7 @@ Web / Technical / Threat Intelligence,IP Address,Hacker Target - Reverse DNS,htt
 Web / Technical / Threat Intelligence,IP Address,DomainIQ.com,https://www.domainiq.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,IP Address,Bing,http://bing.com/,MetaOSINT,1
 Web / Technical / Threat Intelligence,IP Address,Cymru IP to ASN Lookup,https://asn.cymru.com,MetaOSINT,1
+Web / Technical / Threat Intelligence,IP Address,Criminal IP | Cybersecurity Search Engine,https://www.criminalip.io/,Manual,N/A
 Web / Technical / Threat Intelligence,Network / ASN / Servers / Packets,TCPIPUtils.com,http://www.tcpiputils.com/browse/as/174,MetaOSINT,3
 Web / Technical / Threat Intelligence,Network / ASN / Servers / Packets,AFRINIC,https://www.afrinic.net,MetaOSINT,3
 Web / Technical / Threat Intelligence,Network / ASN / Servers / Packets,Robtex.com,https://www.robtex.com/,MetaOSINT,2
@@ -3705,6 +3706,8 @@ Web / Technical / Threat Intelligence,OSINT,Cyber Post OSINT Tools,https://thecy
 Web / Technical / Threat Intelligence,OSINT,Wizard Sourcer,https://wizardsourcer.com/Tools/,Manual,N/A
 Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://ru.bellingcat.com,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,The Intelligence Shop,http://intelligenceshop.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,cipher387 OSINT tools collection,https://github.com/cipher387/osint_stuff_tool_collection,Manual,N/A
 Web / Technical / Threat Intelligence,Paste Sites,PasteLert,http://andrewmohawk.com/pasteLert/,MetaOSINT,6
 Web / Technical / Threat Intelligence,Paste Sites,Pastebin,https://pastebin.com/,MetaOSINT,4
 Web / Technical / Threat Intelligence,Paste Sites,Just Paste It,https://justpaste.it/,MetaOSINT,3
@@ -3866,6 +3869,13 @@ Web / Technical / Threat Intelligence,Threat Intelligence,NOVA News en Ciberinte
 Web / Technical / Threat Intelligence,Threat Intelligence,Briskinfosec Cyber Security Company in India,https://www.briskinfosec.com,Social Share,N/A
 Web / Technical / Threat Intelligence,Threat Intelligence,Daily Cyber Digest | ASPI Cyber Policy | Sub,https://aspiicpc.substack.com,Social Share,N/A
 Web / Technical / Threat Intelligence,Threat Intelligence,CYBER 5W,https://academy.cyber5w.com,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,Talos Blog,http://blog.talosintelligence.com,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,Team Cymru Dragon News Blog,https://team-cymru.com/resources/blog/,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,Criminal IP Blog,http://blog.criminalip.io,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,Criminal IP | Cybersecurity Search Engine,https://www.criminalip.io/,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,Avertium,https://www.avertium.com/resources,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,HackerNoon,http://hackernoon.com,Social Share,N/A
+Web / Technical / Threat Intelligence,Threat Intelligence,Winitor - Malware Initial Assessment,http://winitor.com,Social Share,N/A
 Web / Technical / Threat Intelligence,Website & Internet Analysis,Archive.is,https://archive.is/,MetaOSINT,9
 Web / Technical / Threat Intelligence,Website & Internet Analysis,Domain Tools,http://whois.domaintools.com,MetaOSINT,8
 Web / Technical / Threat Intelligence,Website & Internet Analysis,Cached Pages,http://www.cachedpages.com/,MetaOSINT,8
@@ -4015,6 +4025,7 @@ Web / Technical / Threat Intelligence,Website & Internet Analysis,Archive.is,htt
 Web / Technical / Threat Intelligence,Website & Internet Analysis,Predator.wtf,http://api.predator.wtf/cfresolve/?arguments=cnn.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,Website & Internet Analysis,WebSite-Watcher,http://aignes.com/,MetaOSINT,1
 Web / Technical / Threat Intelligence,Website & Internet Analysis,ahrefs,https://ahrefs.com,MetaOSINT,1
+Web / Technical / Threat Intelligence,Website & Internet Analysis,Short 'Em All!,https://github.com/osintmatter/shortemall,Social Share,N/A
 Web Search Engines,Academic,Google Scholar,https://scholar.google.com,MetaOSINT,3
 Web Search Engines,Academic,PQDT Open,https://pqdtopen.proquest.com/search.html,MetaOSINT,2
 Web Search Engines,Academic,PubMed,http://www.ncbi.nlm.nih.gov/pubmed,MetaOSINT,2
