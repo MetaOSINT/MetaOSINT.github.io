@@ -386,8 +386,8 @@ E-Commerce & Cryptocurrency,Classifieds,Goofbid,https://www.goofbid.com,MetaOSIN
 E-Commerce & Cryptocurrency,Classifieds,FatFingers (Ebay Misspellings),http://www.fatfingers.com/default.aspx,MetaOSINT,1
 E-Commerce & Cryptocurrency,Classifieds,Claz.org,http://claz.org,MetaOSINT,1
 E-Commerce & Cryptocurrency,Classifieds,Amazon,http://www.amazon.com/,MetaOSINT,1
+E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.info,https://blockchain.info/,MetaOSINT,10
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Wallet Explorer,https://www.walletexplorer.com/,MetaOSINT,8
-E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.info,https://blockchain.info/,MetaOSINT,8
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitcoinwhoswho,http://bitcoinwhoswho.com,MetaOSINT,7
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",EtherScan,https://etherscan.io/,MetaOSINT,5
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockonomics,https://www.blockonomics.co,MetaOSINT,4
@@ -399,7 +399,6 @@ E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigati
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.com,https://www.blockchain.com,MetaOSINT,3
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitref,https://bitref.com/,MetaOSINT,3
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Matbea,https://matbea.net/,MetaOSINT,2
-E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Blockchain.info,https://blockchain.info/,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Elliptic,https://www.elliptic.co,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Chain Radar,https://chainradar.com,MetaOSINT,2
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitcoin.org,https://bitcoin.org/en/choose-your-wallet,MetaOSINT,2
@@ -419,6 +418,8 @@ E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigati
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Ether Chain,https://www.etherchain.org/,MetaOSINT,1
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",CoinMap,https://coinmap.org,MetaOSINT,1
 E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Coinbase.com,https://www.coinbase.com,MetaOSINT,1
+E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",Bitnodes,https://bitnodes.earn.com/,Social Share,N/A
+E-Commerce & Cryptocurrency,"Cryptocurrency & Blockchain - Tracking, Investigations, Analysis",BitAddress,https://www.bitaddress.org/,Social Share,N/A
 E-Commerce & Cryptocurrency,Marketplaces & Auctions,Flippity,http://www.flippity.com/,MetaOSINT,4
 E-Commerce & Cryptocurrency,Marketplaces & Auctions,Barcode Reader,http://online-barcode-reader.inliteresearch.com,MetaOSINT,3
 E-Commerce & Cryptocurrency,Marketplaces & Auctions,Goofbid,https://www.goofbid.com,MetaOSINT,3
@@ -1021,6 +1022,7 @@ Identity / Person Search,Email,Email Hunter,https://emailhunter.co/,MetaOSINT,1
 Identity / Person Search,Email,Email Validator Tool,http://e-mailvalidator.com/,MetaOSINT,1
 Identity / Person Search,Email,DNSlytics,https://dnslytics.com,MetaOSINT,1
 Identity / Person Search,Email,CentralOps.net,https://centralops.net,MetaOSINT,1
+Identity / Person Search,Email,iKy,https://gitlab.com/kennbroorg/iKy,Social Share,N/A
 Identity / Person Search,Job / Professional,Recruitin,http://recruitin.net/,MetaOSINT,7
 Identity / Person Search,Job / Professional,CVGadget,http://www.cvgadget.com/,MetaOSINT,5
 Identity / Person Search,Job / Professional,MarketVisual,http://www.marketvisual.com,MetaOSINT,4
@@ -1763,6 +1765,7 @@ Images / Video / Audio / File Metadata Search,Images,adl.org/education-and-resou
 Images / Video / Audio / File Metadata Search,Images,9gag,https://9gag.com/,MetaOSINT,1
 Images / Video / Audio / File Metadata Search,Images,DeepAI Image Similarity API,https://deepai.org/machine-learning-model/image-similarity,Manual,N/A
 Images / Video / Audio / File Metadata Search,Images,Remini AI Photo Enhancer,http://app.remini.ai,Social Share,N/A
+Images / Video / Audio / File Metadata Search,Images,Visual Genome,http://visualgenome.org/,Social Share,N/A
 Images / Video / Audio / File Metadata Search,OCR,Free OCR,http://www.free-ocr.com/,MetaOSINT,5
 Images / Video / Audio / File Metadata Search,OCR,Online OCR,http://www.onlineocr.net,MetaOSINT,4
 Images / Video / Audio / File Metadata Search,OCR,New OCR,https://www.newocr.com,MetaOSINT,4
@@ -2774,6 +2777,7 @@ Social Media,General & Uncategorized,SocialBlade.com,http://socialblade.com/,Met
 Social Media,General & Uncategorized,CrowdTangle | Content Discovery and Social M,https://www.crowdtangle.com/,MetaOSINT,1
 Social Media,General & Uncategorized,Brand24 - Social Media Monitoring Tool,https://brand24.com/,MetaOSINT,1
 Social Media,General & Uncategorized,Blackbird,https://github.com/p1ngul1n0/blackbird,Social Share,N/A
+Social Media,General & Uncategorized,memory.lol,https://github.com/travisbrown/memory.lol,Social Share,N/A
 Social Media,Google Plus,Google+,http://plus.google.com,MetaOSINT,5
 Social Media,Google Plus,PlusFeed,http://plusfeed.frosas.net/,MetaOSINT,2
 Social Media,Google Plus,Google CSE,https://cse.google.com/cse/publicurl?cx=009462381166450434430:cotywcrgpru,MetaOSINT,1
@@ -3708,6 +3712,11 @@ Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://ru.bellingcat.com
 Web / Technical / Threat Intelligence,OSINT,Bellingcat,https://uk.bellingcat.com,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,The Intelligence Shop,http://intelligenceshop.com,Social Share,N/A
 Web / Technical / Threat Intelligence,OSINT,cipher387 OSINT tools collection,https://github.com/cipher387/osint_stuff_tool_collection,Manual,N/A
+Web / Technical / Threat Intelligence,OSINT,OSINTSUMO,http://osintsumo.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,OSINT Foundation,http://osintfoundation.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,cipher387,https://cipher387.github.io/,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,OSINT Foundation,http://osintfoundation.com,Social Share,N/A
+Web / Technical / Threat Intelligence,OSINT,The OSINTion Wiki,https://wiki.theosintion.com/,Social Share,N/A
 Web / Technical / Threat Intelligence,Paste Sites,PasteLert,http://andrewmohawk.com/pasteLert/,MetaOSINT,6
 Web / Technical / Threat Intelligence,Paste Sites,Pastebin,https://pastebin.com/,MetaOSINT,4
 Web / Technical / Threat Intelligence,Paste Sites,Just Paste It,https://justpaste.it/,MetaOSINT,3
@@ -4026,6 +4035,9 @@ Web / Technical / Threat Intelligence,Website & Internet Analysis,Predator.wtf,h
 Web / Technical / Threat Intelligence,Website & Internet Analysis,WebSite-Watcher,http://aignes.com/,MetaOSINT,1
 Web / Technical / Threat Intelligence,Website & Internet Analysis,ahrefs,https://ahrefs.com,MetaOSINT,1
 Web / Technical / Threat Intelligence,Website & Internet Analysis,Short 'Em All!,https://github.com/osintmatter/shortemall,Social Share,N/A
+Web / Technical / Threat Intelligence,Website & Internet Analysis,FouAnalytics - Ads By Domain,https://pagexray.fouanalytics.com,Social Share,N/A
+Web / Technical / Threat Intelligence,Website & Internet Analysis,Website Metadata,https://rapidapi.com/qpblaze/api/website-metadata,Social Share,N/A
+Web / Technical / Threat Intelligence,Website & Internet Analysis,OSINT-Tool / Skylight,https://osint-tool.com/,Social Share,N/A
 Web Search Engines,Academic,Google Scholar,https://scholar.google.com,MetaOSINT,3
 Web Search Engines,Academic,PQDT Open,https://pqdtopen.proquest.com/search.html,MetaOSINT,2
 Web Search Engines,Academic,PubMed,http://www.ncbi.nlm.nih.gov/pubmed,MetaOSINT,2
@@ -4996,7 +5008,7 @@ Workflow / Productivity Tools,,dlvr.it,https://dlvrit.com/,Social Share,N/A
 ,,Alexander Mylnikov,https://www.mylnikov.org,Social Share,N/A
 ,,All posts in a row / Habr,https://habr.com,Social Share,N/A
 ,,Amoghavarsha â€“ Medium,https://theamoghavarsha.medium.com,Social Share,N/A
-,,Amplify Ukraine - Automated DeepL translatio,http://Amplifyukraine.eu,Social Share,N/A
+,,Amplify Ukraine - Automated DeepL translatio,http://amplifyukraine.eu,Social Share,N/A
 ,,Anchor - The easiest way to make a podcast,https://anchor.fm,Social Share,N/A
 ,,Anon Intelligence,https://anonint.neocities.org,Social Share,N/A
 ,,ANSA.it,https://www.ansa.it,Social Share,N/A
@@ -5179,7 +5191,6 @@ Workflow / Productivity Tools,,dlvr.it,https://dlvrit.com/,Social Share,N/A
 ,,Flameshot | Open Source Screenshot Software,http://flameshot.org,Social Share,N/A
 ,,FNNãƒ—ãƒ©ã‚¤ãƒ ã‚ªãƒ³ãƒ©ã‚¤ãƒ³,https://www.fnn.jp,Social Share,N/A
 ,,follow.it | Feedburner Alternative - Get mor,https://api.follow.it,Social Share,N/A
-,,FouAnalytics - Ads By Domain,https://pagexray.fouanalytics.com,Social Share,N/A
 ,,FOX 26 Houston,https://www.fox26houston.com,Social Share,N/A
 ,,Fox on Security,https://foxsecurity.hatenablog.com,Social Share,N/A
 ,,Framadate - Organiser des rendez-vous simple,https://framadate.org,Social Share,N/A
