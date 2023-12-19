@@ -9096,7 +9096,6 @@ Web / Technical / Threat Intelligence,Domains / DNS,Arquivo.pvt,https://arquivo.
 Web / Technical / Threat Intelligence,Domains / DNS,CachedView,https://cachedview.nl,MetaOSINT,1
 Web / Technical / Threat Intelligence,Domains / DNS,Dom: Carbondate.cs.odu.edu,https://carbondate.cs.odu.edu,MetaOSINT,1
 Web / Technical / Threat Intelligence,Domains / DNS,Chaos.projectdiscovery.io,https://chaos.projectdiscovery.io,MetaOSINT,1
-Web / Technical / Threat Intelligence,Domains / DNS,RiskIQ,https://community.riskiq.com/home,MetaOSINT,1
 Web / Technical / Threat Intelligence,Domains / DNS,Goo.gl,https://developers.google.com/url-shortener/v1/getting_started,MetaOSINT,1
 Web / Technical / Threat Intelligence,Domains / DNS,unfurl,https://dfir.blog/unfurl,MetaOSINT,1
 Web / Technical / Threat Intelligence,Domains / DNS,Reverse Analytics ID,https://dnslytics.com/reverse-analytics,MetaOSINT,1
@@ -9924,7 +9923,6 @@ Web / Technical / Threat Intelligence,Threat Intelligence,nmmapper,https://www.n
 Web / Technical / Threat Intelligence,Threat Intelligence,ThreatMiner.org,https://www.threatminer.org,MetaOSINT,5
 Web / Technical / Threat Intelligence,Threat Intelligence,CVE MITRE,https://cve.mitre.org,MetaOSINT,4
 Web / Technical / Threat Intelligence,Threat Intelligence,IBM X-Force Exchange,https://exchange.xforce.ibmcloud.com,MetaOSINT,4
-Web / Technical / Threat Intelligence,Threat Intelligence,HoneyDB,https://riskdiscovery.com/honeydb,MetaOSINT,4
 Web / Technical / Threat Intelligence,Threat Intelligence,sploitus,https://sploitus.com,MetaOSINT,4
 Web / Technical / Threat Intelligence,Threat Intelligence,Virus Share,https://virusshare.com,MetaOSINT,4
 Web / Technical / Threat Intelligence,Threat Intelligence,Vulmon,https://vulmon.com,MetaOSINT,4
