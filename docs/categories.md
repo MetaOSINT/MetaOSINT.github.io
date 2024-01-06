@@ -128,6 +128,7 @@ Social Media
 * Classmates.com
 * Dating
 * DeviantArt
+* Discord
 * Facebook
 * Flickr
 * Forums
@@ -142,6 +143,7 @@ Social Media
 * Myspace
 * Neighborhood Networking
 * Parler
+* Periscope
 * Pinterest
 * Pokemon Go
 * Qzone
@@ -151,11 +153,15 @@ Social Media
 * Snapchat
 * Social Network Analysis
 * Steam
+* Telegram
 * TikTok
+* Tinder
 * Tumblr
+* Twitch
 * Twitter
 * Vkontakte & Russian-Speaking
 * Weibo
+* WhatsApp
 * YouTube
 
 Transportation
