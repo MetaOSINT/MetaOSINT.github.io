@@ -2983,7 +2983,7 @@ Identity / Person Search,Name / General Person Search,ReseacherID,http://www.res
 Identity / Person Search,Name / General Person Search,Sources,http://www.sources.com,MetaOSINT,1
 Identity / Person Search,Name / General Person Search,GlobalExperts,http://www.theglobalexperts.org,MetaOSINT,1
 Identity / Person Search,Name / General Person Search,Yatedo.com,http://yatedo.com,MetaOSINT,1
-Identity / Person Search,Name / General Person Search,Nymeria,https:///chrome.google.com/webstore/detail/nymeria-the-best-email-fi/aapfglkgnhmiaabhiijkjpfmhllaodgp,MetaOSINT,1
+Identity / Person Search,Name / General Person Search,Nymeria,https://chromewebstore.google.com/detail/phone-and-email-finder-by/aapfglkgnhmiaabhiijkjpfmhllaodgp,MetaOSINT,1
 Identity / Person Search,Name / General Person Search,AmIUnique,https://amiunique.org,MetaOSINT,1
 Identity / Person Search,Name / General Person Search,Provincial Archives of New Brunswick,https://archives.gnb.ca/search/feds/default.aspx,MetaOSINT,1
 Identity / Person Search,Name / General Person Search,Australian Public Records,https://australiapublicrecord.com/people-finder,MetaOSINT,1
@@ -8169,6 +8169,7 @@ Social Media,Twitter,Twoo,https://www.twoo.com,MetaOSINT,1
 Social Media,Twitter,22- Vicinitas,https://www.vicinitas.io,MetaOSINT,1
 Social Media,Twitter,Nitter Instances,https://xnaas.github.io/nitter-instances,MetaOSINT,1
 Social Media,Twitter,Twitter Create,https://create.twitter.com,Social Share,0
+Social Media,Twitter,Xquik,https://xquik.com,Manual,0
 Social Media,Vkontakte & Russian-Speaking,VK5,http://vk5.city4me.com,MetaOSINT,9
 Social Media,Vkontakte & Russian-Speaking,Target Log,https://targetolog.com,MetaOSINT,8
 Social Media,Vkontakte & Russian-Speaking,VK to RSS Appspot,https://vk-to-rss.appspot.com,MetaOSINT,8
@@ -11778,7 +11779,7 @@ Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,World 
 Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,yWorks,http://www.yworks.com/en/products_yed_gallery.html,MetaOSINT,1
 Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,yEd - Graph Editor,http://www.yworks.com/products/yed/gallery,MetaOSINT,1
 Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,Zanran,http://zanran.com,MetaOSINT,1
-Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,Nymeria,https:///chrome.google.com/webstore/detail/nymeria-the-best-email-fi/aapfglkgnhmiaabhiijkjpfmhllaodgp,MetaOSINT,1
+Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,Nymeria,https://chromewebstore.google.com/detail/phone-and-email-finder-by/aapfglkgnhmiaabhiijkjpfmhllaodgp,MetaOSINT,1
 Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,Amazon Rekognition,https://aws.amazon.com/rekognition betaface,MetaOSINT,1
 Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,Bubbl.us,https://bubbl.us,MetaOSINT,1
 Workflow / Productivity Tools,Visualization / Data Aggregation / Analysis,Cached View,https://cachedview.com,MetaOSINT,1
